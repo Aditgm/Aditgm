@@ -43,7 +43,7 @@ A classic minesweeper game implementation with modern UI
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&theme=radical&hide_border=true)
 
 ## �� Achievements
-- **1 Star** on GitHub repositories
+- **2 Star** on GitHub repositories
 - **4 Public Repositories** with diverse project types
 - Developed applications across multiple domains (Health, Gaming, Web Development)
 - Deployed applications on modern platforms (Vercel)
