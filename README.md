@@ -29,12 +29,12 @@
 *Live stats that update automatically when you solve problems.*
 
 <div align="center">
-  <a href="https://leetcode.com/Aditgm">
+  <a href="https://leetcode.com/adityagm">
     <img src="https://leetcard.jacoblin.cool/Aditgm?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Codeforces-Rating_Loading...-F34B7D?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Problems_Solved-500+-green?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Problems_Solved-2000+-green?style=for-the-badge&logo=leetcode" />
 </div>
 
 ---
