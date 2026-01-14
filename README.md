@@ -26,7 +26,6 @@
 ---
 
 ### 🏆 Competitive Programming (Codeforces)
-*Live stats directly from my Codeforces profile: **aditya2005***
 
 <div align="center">
   <a href="https://codeforces.com/profile/aditya2005">
