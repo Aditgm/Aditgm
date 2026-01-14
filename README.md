@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Aditgm">
+  <a href="https://github.com/adityagm">
     <img src="https://img.shields.io/github/followers/Aditgm?label=Follow&style=social" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
