@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/adityagm">
+  <a href="https://github.com/Aditgm">
     <img src="https://img.shields.io/github/followers/Aditgm?label=Follow&style=social" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@example.com">
@@ -26,15 +26,18 @@
 ---
 
 ### 🏆 Competitive Programming & DSA
-*Live stats that update automatically when you solve problems.*
+*Live stats that update automatically.*
 
 <div align="center">
   <a href="https://leetcode.com/adityagm">
-    <img src="https://leetcard.jacoblin.cool/Aditgm?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/adityagm?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Codeforces-Rating_Loading...-F34B7D?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Problems_Solved-2000+-green?style=for-the-badge&logo=leetcode" />
+  
+  <a href="https://codeforces.com/profile/aditya2005">
+    <img src="https://img.shields.io/badge/Codeforces-aditya2005-F34B7D?style=for-the-badge&logo=codeforces" />
+  </a>
+  <img src="https://img.shields.io/badge/Problems_Solved-500+-green?style=for-the-badge&logo=leetcode" />
 </div>
 
 ---
@@ -54,17 +57,16 @@
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **[📺 YouTube Summarizer](https://youtubey-beige.vercel.app)** | AI-powered app that generates concise summaries of videos using transcripts. | ![React](https://img.shields.io/badge/-React-black) ![FastAPI](https://img.shields.io/badge/-FastAPI-black) ![Gemini](https://img.shields.io/badge/-Gemini-black) |
-| **[🎯 Cancer Awareness](https://cancer-aware.vercel.app)** | A comprehensive platform for health education and awareness campaigns. | ![JS](https://img.shields.io/badge/-JavaScript-black) ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-black) |
-| **[💣 Minesweeper](https://github.com/Aditgm/minesweeper_game)** | Classic game recreated with modern logic and responsive design. | ![GameDev](https://img.shields.io/badge/-GameDev-black) ![Algorithms](https://img.shields.io/badge/-Algorithms-black) |
+| **[📺 YouTube Summarizer](https://youtubey-beige.vercel.app)** | AI-powered app that generates concise summaries of videos. | ![React](https://img.shields.io/badge/-React-black) ![FastAPI](https://img.shields.io/badge/-FastAPI-black) ![Gemini](https://img.shields.io/badge/-Gemini-black) |
+| **[🎯 Cancer Awareness](https://cancer-aware.vercel.app)** | Platform for health education and awareness campaigns. | ![JS](https://img.shields.io/badge/-JavaScript-black) ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-black) |
+| **[💣 Minesweeper](https://github.com/Aditgm/minesweeper_game)** | Classic game recreated with modern logic. | ![GameDev](https://img.shields.io/badge/-GameDev-black) ![Algorithms](https://img.shields.io/badge/-Algorithms-black) |
 
 ---
 
 ### 📊 GitHub Analytics
-*My coding habits and activity.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aditya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
 
