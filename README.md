@@ -29,7 +29,7 @@
 *Live stats that update automatically when you solve problems.*
 
 <div align="center">
-  <a href="https://leetcode.com/adityagm">
+  <a href="https://leetcode.com/Aditgm">
     <img src="https://leetcard.jacoblin.cool/Aditgm?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br><br>
