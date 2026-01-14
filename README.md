@@ -58,10 +58,21 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <a href="https://github.com/Aditgm">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/Aditgm">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
+  </a>
+  
+  <br />
+  
+  <a href="https://github.com/Aditgm">
+    <img src="https://streak-stats.demolab.com?user=Aditgm&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditgm&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
