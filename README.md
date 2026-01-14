@@ -25,19 +25,13 @@
 
 ---
 
-### 🏆 Competitive Programming & DSA
-*Live stats that update automatically.*
+### 🏆 Competitive Programming (Codeforces)
+*Live stats directly from my Codeforces profile: **aditya2005***
 
 <div align="center">
-  <a href="https://leetcode.com/adityagm">
-    <img src="https://leetcard.jacoblin.cool/adityagm?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-  <br><br>
-  
   <a href="https://codeforces.com/profile/aditya2005">
-    <img src="https://img.shields.io/badge/Codeforces-aditya2005-F34B7D?style=for-the-badge&logo=codeforces" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2005&theme=tokyonight&show_icons=true" alt="Codeforces Stats" />
   </a>
-  <img src="https://img.shields.io/badge/Problems_Solved-500+-green?style=for-the-badge&logo=leetcode" />
 </div>
 
 ---
