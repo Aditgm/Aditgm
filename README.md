@@ -17,7 +17,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **YouTube Summarizer (AI/ML)**
+- 🔭 I’m currently working on **Legal Lens(AI/MERN)**
 - 🌱 I’m currently learning **System Design & Advanced Algorithms**
 - 👯 I’m looking to collaborate on **Open Source & Hackathons**
 - 💬 Ask me about **React, Python, and Competitive Programming**
