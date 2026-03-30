@@ -61,7 +61,7 @@ const aditya: Engineer = {
   currentFocus:   ["System Design", "Distributed Systems", "LLM Infrastructure"],
   expertise:      ["Full-Stack Engineering", "RAG Pipelines", "Vector DBs", "PWA"],
   competitive:    "Codeforces Master · LeetCode Guardian · 2000+ problems",
-  openTo:         "Software Engineer Internships @ FAANG / Top-tier startups",
+  openTo:         "Software Engineer Internships",
   funFact:        "Can center a div AND explain why it works under the hood 🎯",
 };
 ```
