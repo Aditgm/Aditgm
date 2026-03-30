@@ -3,8 +3,8 @@
 <!-- Animated Name Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=55&descColor=cdd6f4" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&width=600&lines=Codeforces+Master+%7C+2131+Rating+%7C+Top+0.8%25+Global;LeetCode+Guardian+%7C+2360%2B+%7C+Top+0.4%25+Global;56th+in+India+on+Codeforces+%F0%9F%87%AE%F0%9F%87%B3;Full-Stack+Engineer+%7C+React+%2B+Node+%2B+PostgreSQL;RAG+Pipelines+%7C+Vector+DBs+%7C+LLM+Infra;Production+PWA+%7C+CI%2FCD+%7C+DigitalOcean;Amazon+ML+Summer+School+%7C+Top+5%25+of+60%2C000%2B" alt="Typing SVG" />
+<!-- Typing SVG — spaces encoded as %20 to prevent text corruption -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&width=600&lines=Codeforces%20Master%20%7C%202131%20Rating%20%7C%20Top%200.8%25%20Global;LeetCode%20Guardian%20%7C%202360%2B%20%7C%20Top%200.4%25%20Global;56th%20in%20India%20on%20Codeforces%20%F0%9F%87%AE%F0%9F%87%B3;Full-Stack%20Engineer%20%7C%20React%20%2B%20Node%20%2B%20PostgreSQL;RAG%20Pipelines%20%7C%20Vector%20DBs%20%7C%20LLM%20Infra;Production%20PWA%20%7C%20CI%2FCD%20%7C%20DigitalOcean;Amazon%20ML%20Summer%20School%20%7C%20Top%205%25%20of%2060%2C000%2B" alt="Typing SVG" />
 
 <br/>
 
@@ -190,12 +190,12 @@ const aditya: Engineer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditgm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditgm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="Aditya's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aditgm&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Aditgm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -217,7 +217,7 @@ const aditya: Engineer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-**Open to SDE Internship opportunities **
+**Open to SDE Internship opportunities**
 
 *"The best way to predict the future is to implement it."*
 
