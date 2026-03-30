@@ -60,7 +60,7 @@ const aditya: Engineer = {
   education:      "B.Tech CSE (AI/ML) @ DIT University — GPA 8.41",
   currentFocus:   ["System Design", "Distributed Systems", "LLM Infrastructure"],
   expertise:      ["Full-Stack Engineering", "RAG Pipelines", "Vector DBs", "PWA"],
-  competitive:    "Codeforces Master · LeetCode Guardian · 2000+ problems",
+  competitive:    "Codeforces Master · LeetCode Guardian · 2100+ problems",
   openTo:         "Software Engineer Internships",
   funFact:        "Can center a div AND explain why it works under the hood 🎯",
 };
