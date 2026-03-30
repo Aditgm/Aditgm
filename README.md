@@ -217,7 +217,7 @@ const aditya: Engineer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-**Open to SDE Internship opportunities @ FAANG / Top-tier companies**
+**Open to SDE Internship opportunities *
 
 *"The best way to predict the future is to implement it."*
 
