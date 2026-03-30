@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Name Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=55&descColor=cdd6f4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Raj&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Competitive%20Programmer&descSize=17&descAlignY=58&descColor=cdd6f4" />
 
-<!-- Typing SVG — spaces encoded as %20 to prevent text corruption -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&width=600&lines=Codeforces%20Master%20%7C%202131%20Rating%20%7C%20Top%200.8%25%20Global;LeetCode%20Guardian%20%7C%202360%2B%20%7C%20Top%200.4%25%20Global;56th%20in%20India%20on%20Codeforces%20%F0%9F%87%AE%F0%9F%87%B3;Full-Stack%20Engineer%20%7C%20React%20%2B%20Node%20%2B%20PostgreSQL;RAG%20Pipelines%20%7C%20Vector%20DBs%20%7C%20LLM%20Infra;Production%20PWA%20%7C%20CI%2FCD%20%7C%20DigitalOcean;Amazon%20ML%20Summer%20School%20%7C%20Top%205%25%20of%2060%2C000%2B" alt="Typing SVG" />
+<!-- Typing SVG — all spaces as %20 to prevent text corruption -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&width=650&lines=Codeforces%20Master%20%7C%202131%20Rating%20%7C%20Top%200.8%25%20Global;LeetCode%20Guardian%20%7C%202360%2B%20%7C%20Top%200.4%25%20Global;56th%20in%20India%20on%20Codeforces%20%F0%9F%87%AE%F0%9F%87%B3;Full-Stack%20Engineer%20%7C%20React%20%2B%20Node%20%2B%20PostgreSQL;RAG%20Pipelines%20%7C%20Vector%20DBs%20%7C%20LLM%20Infra;Production%20PWA%20%7C%20CI%2FCD%20%7C%20DigitalOcean;Amazon%20ML%20Summer%20School%20%7C%20Top%205%25%20of%2060%2C000%2B" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges Row -->
+<!-- Social / Platform Badges -->
 <a href="https://codeforces.com/profile/aditya2005">
   <img src="https://img.shields.io/badge/Codeforces-Master%20%7C%202131%20%7C%20Top%200.8%25-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
@@ -87,6 +87,9 @@ const aditya: Engineer = {
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Workbox](https://img.shields.io/badge/Workbox-FF6D00?style=flat-square&logo=googlechrome&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Query_v5-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 ---
 
@@ -98,11 +101,13 @@ const aditya: Engineer = {
 - ⚡ **Sub-150ms query latency** at **92% top-k retrieval accuracy** — ~85% reduction in research time
 - 📦 Scalable Next.js architecture · MongoDB persistence · optimized API response caching
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama_3.3_70B-FF6B35?style=flat-square&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -118,7 +123,9 @@ const aditya: Engineer = {
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow_CV-purple?style=flat-square)
+![Roboflow](https://img.shields.io/badge/Roboflow_CV-6706CE?style=flat-square&logo=roboflow&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ---
 
@@ -126,39 +133,54 @@ const aditya: Engineer = {
 
 <div align="center">
 
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,bash&theme=dark" />
 
-### Frontend
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" />
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+![PWA + Workbox](https://img.shields.io/badge/PWA%20%2B%20Workbox-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-### AI / ML
-![Llama](https://img.shields.io/badge/Llama_3.3_70B-FF6B35?style=for-the-badge&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-purple?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge)
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" />
 
-### DevOps & Cloud
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets%20%2F%20Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" />
+
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Supabase RLS](https://img.shields.io/badge/Supabase%20RLS-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🤖 AI / ML / LLM
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+
+![Llama 3.3 70B](https://img.shields.io/badge/Llama%203.3%2070B-FF6B35?style=for-the-badge&logo=meta&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone%20Vector%20DB-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Roboflow CV](https://img.shields.io/badge/Roboflow%20CV-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Text%20Embeddings-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🚀 DevOps, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,git,postman&theme=dark" />
+
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![SSH Deploy](https://img.shields.io/badge/SSH%20Zero--Downtime%20Deploy-4A4A4A?style=for-the-badge&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -172,16 +194,14 @@ const aditya: Engineer = {
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2005&theme=tokyonight&show_icons=true" alt="Codeforces Stats" />
 </a>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 | Platform | Rating | Rank | Highlight |
 |:---:|:---:|:---:|:---:|
 | **Codeforces** | 2131 — Master | **56th in India** 🇮🇳 | Top 0.003% — 45/20,000+ in Round 1068 |
 | **LeetCode** | 2360+ — Guardian | Top 0.4% Global | **169/30,000+** in Weekly Contest 462 |
 | **CodeChef** | 2132 — 5★ | 335th in India | Active contest participant |
-| **Problems Solved** | **2000+** | Codeforces · LeetCode · CSES · VJudge | Graphs · DP · Segment Trees · Flows |
+| **Problems Solved** | **2000+** | CF · LC · CSES · VJudge | Graphs · DP · Seg Trees · Flows · FFT |
 
 </div>
 
@@ -189,13 +209,37 @@ const aditya: Engineer = {
 
 ## 📊 GitHub Stats
 
+<!--
+  github-readme-stats free tier is rate-limited to ~5 requests/min across ALL users.
+  If cards show blank/error, the fix is to self-host your own instance:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  (Free on Vercel — takes 2 minutes)
+-->
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditgm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="Aditya's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="195" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="195" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aditgm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Aditgm&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditgm&theme=tokyo-night&hide_border=true&area=true&custom_title=Aditya's%20Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditgm&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -203,19 +247,20 @@ const aditya: Engineer = {
 ## 🎓 Experience & Recognition
 
 ```
-🏢  Amazon ML Summer School      Top 5% of 60,000+ applicants globally
-🌍  GirlScript Summer of Code    Open source contributor — Node.js / Python
-🥇  Codeforces                   Master (2131) · 56th in India
-🥇  LeetCode                     Guardian (2360+) · Top 0.4% globally
-🥈  CodeChef                     5-star (2132) · 335th in India
-🎯  Best Contest Finish           45 / 20,000+ — Top 0.003% globally
+🏢  Amazon ML Summer School       Top 5% of 60,000+ applicants globally
+🌍  GirlScript Summer of Code     Open source contributor — Node.js / Python
+🥇  Codeforces                    Master (2131) · 56th in India
+🥇  LeetCode                      Guardian (2360+) · Top 0.4% globally
+🥈  CodeChef                      5-star (2132) · 335th in India
+🎯  Best Contest Finish            45 / 20,000+ — Top 0.003% globally
+🧠  Topics Mastered                Graphs · DP · Segment Trees · Flows · FFT · Binary Search
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 **Open to SDE Internship opportunities**
 
