@@ -215,6 +215,12 @@ const aditya: Engineer = {
   https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
   (Free on Vercel — takes 2 minutes)
 -->
+
+ 
+---
+ 
+## <img src="https://api.iconify.design/heroicons/arrow-trending-up.svg?color=%23CBA6F7" height="22"/> Contribution Graph
+ 
  
 <div align="center">
   
@@ -228,24 +234,6 @@ const aditya: Engineer = {
   </picture>
 
 </div>
- 
----
- 
-## <img src="https://api.iconify.design/heroicons/arrow-trending-up.svg?color=%23CBA6F7" height="22"/> Contribution Graph
- 
-<div align="center">
-
-### <img src="https://api.iconify.design/heroicons/cursor-arrow-ripple.svg?color=%23CBA6F7" height="18"/> Activity Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation"
-       src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-snake.svg">
-</picture>
-
 
 <br/>
 
