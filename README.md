@@ -272,7 +272,16 @@ const aditya: Engineer = {
 ## <img src="https://api.iconify.design/heroicons/arrow-trending-up.svg?color=%23CBA6F7" height="22"/> Contribution Graph
  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditgm&theme=tokyo-night&hide_border=true&area=true&custom_title=Aditya's%20Contribution%20Graph" alt="Contribution Graph" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditgm&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditgm&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Aditgm&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditgm&theme=tokyonight" />
 </div>
  
 ---
