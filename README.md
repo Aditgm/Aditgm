@@ -246,7 +246,6 @@ const aditya: Engineer = {
        src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-snake.svg">
 </picture>
 
-> To enable the snake: add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo (`Aditgm/Aditgm`) — it auto-generates the SVG on a schedule. See setup instructions below.
 
 <br/>
 
