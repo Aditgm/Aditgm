@@ -255,43 +255,6 @@ const aditya: Engineer = {
 
 </div>
 
-<details>
-<summary><img src="https://api.iconify.design/heroicons/information-circle.svg?color=%23CBA6F7" height="14"/> Snake setup — one-time 2-minute step</summary>
-
-Create `.github/workflows/snake.yml` in your **`Aditgm/Aditgm`** profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Aditgm
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After the first run, the SVGs will be at the exact URLs referenced above.
-
-</details>
- 
----
- 
 ## <img src="https://api.iconify.design/heroicons/academic-cap.svg?color=%23CBA6F7" height="22"/> Experience & Recognition
  
 <div align="center">
