@@ -1,50 +1,3 @@
-
-
-<div align="center"> <!-- Animated Name Banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Raj&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20%7
-
-pasted
-
-replace all emojis with svg to give very professional look to readme.md
-
-2:21 AM
-
-Devised strategy to replace emojis with professional SVG icons
-Devised strategy to replace emojis with professional SVG icons
-Every emoji has been swapped out. Here's what changed:
-
-SVG source used: Iconify Design API serving Heroicons v2 outline — consistent stroke weight, renders cleanly at all sizes, and GitHub proxies them fine via its image CDN.
-
-Replacement map:
-
-Was	Now	Icon
-⚡	heroicons/bolt	Section headers + bullet accents
-🧠	heroicons/cpu-chip	About Me, AI/ML section
-🚀	heroicons/rocket-launch	Projects, CI/CD bullet
-🛠️	heroicons/wrench-screwdriver	Tech Stack
-🏅 / 🏆 / 🥇 / 🥈	heroicons/trophy	Trophy gold 
-#FFD700, silver 
-#C0C0C0, purple for section
-🔐 / 🔒	heroicons/lock-closed	Security bullets
-🛡️	heroicons/shield-check	Rate limiting bullet
-📊 / 📈	heroicons/chart-bar / arrow-trending-up	Stats sections
-🎓	heroicons/academic-cap	Experience section
-🗂️ / ⚖️ / 🦟	folder-open / scale / bug-ant	Project headers
-🏢 / 🌍	building-office-2 / globe-alt	Experience table
-🇮🇳	Removed cleanly	Flag emoji from typing SVG URL
-The Experience section's code block was also converted to a proper HTML table so SVG icons could be used there too — that was the trickiest part since raw SVGs can't go inside fenced code blocks.
-
-Readme
-Document · MD 
-
-You are out of free messages until 4:30 AM
-Upgrade
-
-
-
-Claude is AI and can make mistakes. Please double-check responses.
-Readme · MD
-Copy
-
 <div align="center">
  
 <!-- Animated Name Banner -->
@@ -282,21 +235,61 @@ const aditya: Engineer = {
  
 <div align="center">
 
-  ## 🎮 Contribution Graph
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-    <img alt="pacman contribution graph" 
-         src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-  </picture>
-  
-  ## 📊 Year Overview
-  
-  <img src="https://github.pumbas.net/api/contributions/YOUR_USERNAME?colour=00ff88&bgColour=0d1117&days=365&borderRadius=15" 
-       alt="Year Contributions"/>
-  
+### <img src="https://api.iconify.design/heroicons/cursor-arrow-ripple.svg?color=%23CBA6F7" height="18"/> Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation"
+       src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-snake.svg">
+</picture>
+
+> To enable the snake: add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo (`Aditgm/Aditgm`) — it auto-generates the SVG on a schedule. See setup instructions below.
+
+<br/>
+
+### <img src="https://api.iconify.design/heroicons/calendar-days.svg?color=%23CBA6F7" height="18"/> Year Overview
+
+<img src="https://ghchart.rshah.org/CBA6F7/Aditgm" alt="Aditgm's GitHub Contribution Chart" />
+
 </div>
+
+<details>
+<summary><img src="https://api.iconify.design/heroicons/information-circle.svg?color=%23CBA6F7" height="14"/> Snake setup — one-time 2-minute step</summary>
+
+Create `.github/workflows/snake.yml` in your **`Aditgm/Aditgm`** profile repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Aditgm
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After the first run, the SVGs will be at the exact URLs referenced above.
+
+</details>
  
 ---
  
@@ -329,4 +322,3 @@ const aditya: Engineer = {
 [![](https://visitcount.itsvg.in/api?id=Aditgm&icon=6&color=9)](https://visitcount.itsvg.in)
  
 </div>
- 
