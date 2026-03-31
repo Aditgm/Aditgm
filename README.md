@@ -264,14 +264,6 @@ const aditya: Engineer = {
 -->
  
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aditgm&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
- 
----
- 
-## <img src="https://api.iconify.design/heroicons/arrow-trending-up.svg?color=%23CBA6F7" height="22"/> Contribution Graph
- 
-<div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditgm&theme=tokyonight"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditgm&theme=tokyonight"/>
 </div>
@@ -283,6 +275,12 @@ const aditya: Engineer = {
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditgm&theme=tokyonight" />
 </div>
+ 
+---
+ 
+## <img src="https://api.iconify.design/heroicons/arrow-trending-up.svg?color=%23CBA6F7" height="22"/> Contribution Graph
+ 
+
  
 ---
  
