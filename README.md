@@ -217,16 +217,16 @@ const aditya: Engineer = {
 -->
  
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditgm&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditgm&theme=tokyonight"/>
-</div>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/Aditgm/Aditgm/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/Aditgm/Aditgm/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" 
+         src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/pacman-contribution-graph.svg">
+  </picture>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditgm&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditgm&theme=tokyonight" />
 </div>
  
 ---
