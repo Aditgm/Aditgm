@@ -280,7 +280,23 @@ const aditya: Engineer = {
  
 ## <img src="https://api.iconify.design/heroicons/arrow-trending-up.svg?color=%23CBA6F7" height="22"/> Contribution Graph
  
+<div align="center">
 
+  ## 🎮 Contribution Graph
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
+    <img alt="pacman contribution graph" 
+         src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+  </picture>
+  
+  ## 📊 Year Overview
+  
+  <img src="https://github.pumbas.net/api/contributions/YOUR_USERNAME?colour=00ff88&bgColour=0d1117&days=365&borderRadius=15" 
+       alt="Year Contributions"/>
+  
+</div>
  
 ---
  
