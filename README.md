@@ -1,255 +1,369 @@
+<!--
+███████████████████████████████████████████████████████████
+  ADITYA RAJ — github.com/Aditgm
+  Terminal / Hacker Aesthetic · README
+███████████████████████████████████████████████████████████
+-->
+
 <div align="center">
 
-<!-- Animated Name Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aditya%20Raj&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Competitive%20Programmer&descSize=18&descAlignY=58&descColor=cdd6f4" />
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&multiline=false&width=700&lines=Codeforces+Master+%7C+2131+Rating+%7C+Top+0.8%25+Global;LeetCode+Guardian+%7C+2360%2B+%7C+Top+0.4%25+Global;56th+in+India+on+Codeforces+%F0%9F%87%AE%F0%9F%87%B3;Full-Stack+Engineer+%7C+React+%2B+Node+%2B+PostgreSQL;RAG+Pipelines+%7C+Vector+DBs+%7C+LLM+Infra;Production+PWA+%7C+CI%2FCD+%7C+DigitalOcean;Amazon+ML+Summer+School+%7C+Top+5%25+of+60%2C000%2B" alt="Typing SVG" />
+<!-- HERO TYPING BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=600&color=00FF41&background=0d0d0d&center=true&vCenter=true&multiline=true&width=740&height=120&lines=%24+whoami+%23+aditya_raj+%E2%80%94+SWE+%7C+AI%2FML+%7C+Competitive+Programmer;%24+./run_stats.sh+--cf+2131+--lc+2360%2B+--rank+%2256th_IN%22;%24+grep+-r+%22problems%22+.%2F+%7C+wc+-l+%23+2000%2B;%24+echo+%22Open+to+SDE+Internships+%E2%96%AE%22" alt="Terminal Hero" />
 
 <br/>
 
-<!-- Social / Platform Badges -->
+```
+╔══════════════════════════════════════════════════════════════╗
+║  $ whoami                                                    ║
+║    aditya_raj — SWE · AI/ML · Competitive Programmer        ║
+║  $ uname -a                                                  ║
+║    DIT University · B.Tech CSE (AI/ML) · GPA 8.41           ║
+║  $ echo $STATUS                                              ║
+║    Open to SDE Internships · Building cool stuff ▮          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<!-- PLATFORM BADGES — terminal green on black -->
 <a href="https://codeforces.com/profile/aditya2005">
-  <img src="https://img.shields.io/badge/Codeforces-Master%20%7C%202131%20%7C%20Top%200.8%25-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codeforces-MASTER_|_2131_|_%2356_India-00FF41?style=flat-square&logo=codeforces&logoColor=00FF41&labelColor=0d0d0d&color=0d0d0d"/>
 </a>
 <a href="https://leetcode.com/u/adityagm/">
-  <img src="https://img.shields.io/badge/LeetCode-Guardian%20%7C%202360%2B%20%7C%20Top%200.4%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-GUARDIAN_|_2360%2B_|_Top_0.4%25-00FF41?style=flat-square&logo=leetcode&logoColor=00FF41&labelColor=0d0d0d&color=0d0d0d"/>
 </a>
 <a href="https://www.codechef.com/users/adityagm">
-  <img src="https://img.shields.io/badge/CodeChef-5%E2%98%85%20%7C%202132%20%7C%20335th%20India-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-5★_|_2132_|_335th_India-00FF41?style=flat-square&logo=codechef&logoColor=00FF41&labelColor=0d0d0d&color=0d0d0d"/>
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/aditya-raj-18401a377">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-connect-00FF41?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0d0d0d&color=0d0d0d"/>
 </a>
 <a href="mailto:arajsinha4@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-arajsinha4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-arajsinha4@gmail.com-00FF41?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=0d0d0d&color=0d0d0d"/>
 </a>
 <a href="https://portfolio-chi-taupe-70.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-CBA6F7?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-live_site-00FF41?style=flat-square&logo=vercel&logoColor=00FF41&labelColor=0d0d0d&color=0d0d0d"/>
 </a>
-
-<br/><br/>
-
-<!-- Profile Views -->
-[![](https://visitcount.itsvg.in/api?id=Aditgm&icon=6&color=9)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/heroicons/bolt.svg?color=%23CBA6F7" height="22"/> Quick Stats
+## `$ cat /proc/stats`
 
 <div align="center">
 
-| <img src="https://api.iconify.design/heroicons/trophy.svg?color=%23CBA6F7" height="15"/> Achievement | <img src="https://api.iconify.design/heroicons/chart-bar.svg?color=%23CBA6F7" height="15"/> Metric |
+| `KEY` | `VALUE` |
 |:---|:---|
-| 🔵 Codeforces Rating | **2131 — Master** · Top 0.8% globally · **56th in India** |
-| 🟡 LeetCode Rating | **2360+ — Guardian** · Top 0.4% globally · Ranked **169 / 30,000+** in Weekly Contest 462 |
-| 🟤 CodeChef | **5★ · 2132** · Ranked **335th in India** |
-| 💡 Problems Solved | **2000+** across Codeforces, LeetCode, CSES, VJudge, HackerRank |
-| 🏆 Best Contest Finish | **45 / 20,000+** in Codeforces Round 1068 Div. 2 — **Top 0.003% globally** |
-| 🤖 Amazon ML School | Selected · **Top 5% of 60,000+ applicants** |
+| `CF_RATING` | **2131 — Master** · 56th in India · Top 0.8% globally |
+| `LC_RATING` | **2360+ — Guardian** · Top 0.4% · #169 / 30,000+ in Contest 462 |
+| `CC_RATING` | **2132 — 5★** · 335th in India |
+| `PROBLEMS_SOLVED` | **2,000+** across CF · LC · CSES · VJudge · HackerRank |
+| `BEST_FINISH` | **45 / 20,000+** CF Round 1068 Div.2 — Top 0.003% globally |
+| `AMAZON_ML` | Selected — Top **5% of 60,000+** applicants |
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/heroicons/cpu-chip.svg?color=%23CBA6F7" height="22"/> About Me
+## `$ cat ~/.profile`
 
 ```typescript
-const aditya: Engineer = {
-  location:       "Dehradun, India 🇮🇳",
-  education:      "B.Tech CSE (AI/ML) @ DIT University — GPA 8.41",
-  currentFocus:   ["System Design", "Distributed Systems", "LLM Infrastructure"],
-  expertise:      ["Full-Stack Engineering", "RAG Pipelines", "Vector DBs", "PWA"],
-  competitive:    "Codeforces Master · LeetCode Guardian · 2000+ problems",
-  openTo:         "Software Engineer Internships 🚀",
-  funFact:        "Can center a div AND explain why it works under the hood 😄",
-};
+// ~/.config/aditya/profile.ts
+
+const dev = {
+  name:        "Aditya Raj",
+  location:    "Dehradun, India 🇮🇳",
+  education:   "B.Tech CSE (AI/ML) @ DIT University · GPA 8.41",
+  focus:       ["System Design", "Distributed Systems", "LLM Infrastructure"],
+  stack:       ["Full-Stack", "RAG Pipelines", "Vector DBs", "PWA", "DevOps"],
+  cp:          "CF Master 2131 · LC Guardian 2360+ · 2000+ problems",
+  seeking:     "SDE Internships 2025–26",
+  principle:   "Measure twice. `git push --force` once.",
+} satisfies Engineer;
+
+export default dev;
 ```
 
 ---
 
-## <img src="https://api.iconify.design/heroicons/rocket-launch.svg?color=%23CBA6F7" height="22"/> Featured Projects
+## `$ ls -la ./projects/`
 
-### <img src="https://api.iconify.design/heroicons/folder-open.svg?color=%23CBA6F7" height="20"/> [DIT PYQ Hub](https://github.com/Aditgm/DIT-PYQ-hub) — Full-Stack Academic Resource Platform (PWA)
-> Production-grade platform for browsing, uploading, and downloading university question papers.
+<details>
+<summary><b><code>📁 DIT-PYQ-Hub/</code></b> &nbsp;—&nbsp; Full-Stack Academic Resource Platform (PWA)</summary>
 
-- <img src="https://api.iconify.design/heroicons/lock-closed.svg?color=%23CBA6F7" height="14"/> **Supabase RLS** — database-layer Row-Level Security with user-scoped Bearer token injection
-- <img src="https://api.iconify.design/heroicons/bolt.svg?color=%23CBA6F7" height="14"/> **O(1) download counters** — PL/pgSQL triggers replacing expensive `COUNT(*)` aggregations
-- <img src="https://api.iconify.design/heroicons/globe-alt.svg?color=%23CBA6F7" height="14"/> **Offline-capable PWA** — Workbox 7.x multi-strategy caching (NetworkFirst · CacheFirst · StaleWhileRevalidate)
-- <img src="https://api.iconify.design/heroicons/rocket-launch.svg?color=%23CBA6F7" height="14"/> **CI/CD pipeline** — GitHub Actions automated integration testing + zero-downtime SSH deployment on DigitalOcean
-- <img src="https://api.iconify.design/heroicons/arrow-trending-down.svg?color=%23CBA6F7" height="14"/> **Sub-50ms UI sync** — TanStack Query v5 optimistic updates + Supabase Realtime `postgres_changes`
-- <img src="https://api.iconify.design/heroicons/shield-check.svg?color=%23CBA6F7" height="14"/> Sliding-window rate limiting (5 req/3hr) · Zod schema validation · watermarked file delivery · 99.9% uptime
+<br/>
 
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Workbox](https://img.shields.io/badge/Workbox-FF6D00?style=flat-square&logo=googlechrome&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack_Query_v5-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+```bash
+$ cat DIT-PYQ-Hub/README.md
+```
 
----
+> Production-grade PWA for browsing, uploading and downloading university question papers.
 
-### <img src="https://api.iconify.design/heroicons/scale.svg?color=%23CBA6F7" height="20"/> [Legal Lens](https://github.com/Aditgm/Legal_Lens) — AI-Powered Legal Research Platform
+```
+ARCHITECTURE
+├── frontend/   React 18 + TypeScript + TanStack Query v5 + Workbox 7.x
+├── backend/    Node.js + Express + Supabase RLS + PL/pgSQL triggers
+├── infra/      DigitalOcean + GitHub Actions CI/CD + SSH zero-downtime deploy
+└── security/   Sliding-window rate limiting · Zod validation · watermarked delivery
+```
+
+**Key engineering decisions:**
+- `O(1)` download counters via PL/pgSQL triggers — eliminated expensive `COUNT(*)` queries
+- Offline-first: Workbox multi-strategy caching (`NetworkFirst` · `CacheFirst` · `StaleWhileRevalidate`)
+- Sub-50ms UI sync: TanStack Query v5 optimistic updates + Supabase Realtime `postgres_changes`
+- 99.9% uptime · 5 req/3hr rate limiting · Bearer token injection with row-level security
+
+![React](https://img.shields.io/badge/React_18-0d0d0d?style=flat-square&logo=react&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=00FF41)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=00FF41)
+![Express](https://img.shields.io/badge/Express.js-0d0d0d?style=flat-square&logo=express&logoColor=00FF41)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0d0d0d?style=flat-square&logo=digitalocean&logoColor=00FF41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=flat-square&logo=github-actions&logoColor=00FF41)
+![Workbox](https://img.shields.io/badge/Workbox-0d0d0d?style=flat-square&logo=googlechrome&logoColor=00FF41)
+![TanStack](https://img.shields.io/badge/TanStack_Query_v5-0d0d0d?style=flat-square&logo=reactquery&logoColor=00FF41)
+![Zod](https://img.shields.io/badge/Zod-0d0d0d?style=flat-square&logo=zod&logoColor=00FF41)
+
+</details>
+
+<details>
+<summary><b><code>📁 Legal-Lens/</code></b> &nbsp;—&nbsp; AI-Powered Legal Research Platform (RAG)</summary>
+
+<br/>
+
+```bash
+$ cat Legal-Lens/README.md
+```
+
 > RAG pipeline making statutory research accessible to everyone.
 
-- <img src="https://api.iconify.design/heroicons/cpu-chip.svg?color=%23CBA6F7" height="14"/> **Llama 3.3 (70B)** — context-aware legal insights via Retrieval-Augmented Generation
-- <img src="https://api.iconify.design/heroicons/magnifying-glass.svg?color=%23CBA6F7" height="14"/> **Pinecone Vector DB** — 1,000+ chunked legal documents indexed for embedding-based semantic retrieval
-- <img src="https://api.iconify.design/heroicons/bolt.svg?color=%23CBA6F7" height="14"/> **Sub-150ms query latency** at **92% top-k retrieval accuracy** — ~85% reduction in research time
-- <img src="https://api.iconify.design/heroicons/archive-box.svg?color=%23CBA6F7" height="14"/> Scalable Next.js architecture · MongoDB persistence · optimized API response caching
+```
+ARCHITECTURE
+├── model/      Llama 3.3 70B via Groq · LangChain orchestration
+├── retrieval/  Pinecone Vector DB · 1,000+ chunked legal documents
+├── frontend/   Next.js 14 + TypeScript
+└── backend/    MongoDB persistence · optimized API response caching
+```
 
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-000000?style=flat-square&logo=pinecone&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama_3.3_70B-FF6B35?style=flat-square&logo=meta&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Key metrics:**
+- Sub-150ms query latency at **92% top-k retrieval accuracy**
+- ~85% reduction in statutory research time vs manual lookup
+- Embedding-based semantic retrieval over 1,000+ chunked legal documents
 
----
+![Next.js](https://img.shields.io/badge/Next.js_14-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=00FF41)
+![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-0d0d0d?style=flat-square&logo=pinecone&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=00FF41)
+![Llama](https://img.shields.io/badge/Llama_3.3_70B-0d0d0d?style=flat-square&logo=meta&logoColor=00FF41)
+![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=flat-square&logo=langchain&logoColor=00FF41)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=00FF41)
 
-### <img src="https://api.iconify.design/heroicons/bug-ant.svg?color=%23CBA6F7" height="20"/> [Dengue-Spot](https://github.com/Aditgm/dengue-spot) — Real-Time Disease Surveillance Platform
+</details>
+
+<details>
+<summary><b><code>📁 Dengue-Spot/</code></b> &nbsp;—&nbsp; Real-Time Disease Surveillance Platform</summary>
+
+<br/>
+
+```bash
+$ cat Dengue-Spot/README.md
+```
+
 > Community-driven public health platform with live geo-tagged risk mapping.
 
-- <img src="https://api.iconify.design/heroicons/signal.svg?color=%23CBA6F7" height="14"/> **Socket.io** — bi-directional real-time community chat and live alert broadcasting
-- <img src="https://api.iconify.design/heroicons/cpu-chip.svg?color=%23CBA6F7" height="14"/> **Roboflow CV pipeline** — auto-classifies mosquito breeding sites from user-uploaded images
-- <img src="https://api.iconify.design/heroicons/lock-closed.svg?color=%23CBA6F7" height="14"/> **RBAC + Rate Limiting + IP Banning** — hardened REST API against abuse
-- <img src="https://api.iconify.design/heroicons/map.svg?color=%23CBA6F7" height="14"/> Indexed MongoDB geospatial queries · OAuth 2.0 auth · request logging & monitoring
+```
+ARCHITECTURE
+├── realtime/   Socket.io bi-directional chat + live alert broadcasting
+├── cv/         Roboflow pipeline — auto-classifies mosquito breeding sites
+├── maps/       Leaflet.js + indexed MongoDB geospatial queries
+└── security/   RBAC + Rate Limiting + IP Banning + OAuth 2.0 + JWT
+```
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow_CV-6706CE?style=flat-square&logo=roboflow&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00FF41)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d0d0d?style=flat-square&logo=socketdotio&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00FF41)
+![Roboflow](https://img.shields.io/badge/Roboflow_CV-0d0d0d?style=flat-square&logo=roboflow&logoColor=00FF41)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-0d0d0d?style=flat-square&logo=leaflet&logoColor=00FF41)
+![JWT](https://img.shields.io/badge/JWT_Auth-0d0d0d?style=flat-square&logo=jsonwebtokens&logoColor=00FF41)
+
+</details>
 
 ---
 
-## <img src="https://api.iconify.design/heroicons/wrench-screwdriver.svg?color=%23CBA6F7" height="22"/> Tech Stack
+## `$ cat /etc/tech-stack`
 
 <div align="center">
 
-### <img src="https://api.iconify.design/heroicons/computer-desktop.svg?color=%23CBA6F7" height="18"/> Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,bash&theme=dark" />
+```
+╔══════════════════════════════════╗  ╔══════════════════════════════════╗
+║  LANGUAGES                       ║  ║  FRONTEND                        ║
+╚══════════════════════════════════╝  ╚══════════════════════════════════╝
+```
 
-### <img src="https://api.iconify.design/heroicons/paint-brush.svg?color=%23CBA6F7" height="18"/> Frontend
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,bash&theme=dark" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" />
 
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
-![PWA + Workbox](https://img.shields.io/badge/PWA%20%2B%20Workbox-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+<br/>
 
-### <img src="https://api.iconify.design/heroicons/cog-6-tooth.svg?color=%23CBA6F7" height="18"/> Backend & APIs
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-0d0d0d?style=flat-square&logo=reactquery&logoColor=00FF41)
+![Zustand](https://img.shields.io/badge/Zustand-0d0d0d?style=flat-square&logo=react&logoColor=00FF41)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d0d0d?style=flat-square&logo=framer&logoColor=00FF41)
+![Radix UI](https://img.shields.io/badge/Radix_UI-0d0d0d?style=flat-square&logo=radixui&logoColor=00FF41)
+![PWA](https://img.shields.io/badge/PWA_%2B_Workbox-0d0d0d?style=flat-square&logo=pwa&logoColor=00FF41)
+![Zod](https://img.shields.io/badge/Zod-0d0d0d?style=flat-square&logo=zod&logoColor=00FF41)
+
+<br/>
+
+```
+╔══════════════════════════════════╗  ╔══════════════════════════════════╗
+║  BACKEND & APIs                  ║  ║  DATABASES & STORAGE             ║
+╚══════════════════════════════════╝  ╚══════════════════════════════════╝
+```
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" />
-
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets%20%2F%20Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-
-### <img src="https://api.iconify.design/heroicons/circle-stack.svg?color=%23CBA6F7" height="18"/> Databases & Storage
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" />
 
-![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Supabase RLS](https://img.shields.io/badge/Supabase%20RLS-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<br/>
 
-### <img src="https://api.iconify.design/heroicons/cpu-chip.svg?color=%23CBA6F7" height="18"/> AI / ML / LLM
+![REST API](https://img.shields.io/badge/REST_API-0d0d0d?style=flat-square&logo=fastapi&logoColor=00FF41)
+![WebSockets](https://img.shields.io/badge/WebSockets_%2F_Socket.io-0d0d0d?style=flat-square&logo=socketdotio&logoColor=00FF41)
+![JWT](https://img.shields.io/badge/JWT_Auth-0d0d0d?style=flat-square&logo=jsonwebtokens&logoColor=00FF41)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-0d0d0d?style=flat-square&logo=auth0&logoColor=00FF41)
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=00FF41)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-0d0d0d?style=flat-square&logo=prisma&logoColor=00FF41)
+![Mongoose](https://img.shields.io/badge/Mongoose-0d0d0d?style=flat-square&logo=mongoose&logoColor=00FF41)
+![Supabase RLS](https://img.shields.io/badge/Supabase_RLS-0d0d0d?style=flat-square&logo=supabase&logoColor=00FF41)
+
+<br/>
+
+```
+╔══════════════════════════════════╗  ╔══════════════════════════════════╗
+║  AI / ML / LLM                   ║  ║  DEVOPS · CLOUD · TOOLS          ║
+╚══════════════════════════════════╝  ╚══════════════════════════════════╝
+```
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-
-![Llama 3.3 70B](https://img.shields.io/badge/Llama%203.3%2070B-FF6B35?style=for-the-badge&logo=meta&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone%20Vector%20DB-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Roboflow CV](https://img.shields.io/badge/Roboflow%20CV-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Text%20Embeddings-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
-
-### <img src="https://api.iconify.design/heroicons/cloud.svg?color=%23CBA6F7" height="18"/> DevOps, Cloud & Tools
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,git,postman&theme=dark" />
 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![SSH Deploy](https://img.shields.io/badge/SSH%20Zero--Downtime%20Deploy-4A4A4A?style=for-the-badge&logo=gnubash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br/>
+
+![Llama 3.3 70B](https://img.shields.io/badge/Llama_3.3_70B-0d0d0d?style=flat-square&logo=meta&logoColor=00FF41)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-0d0d0d?style=flat-square&logo=openai&logoColor=00FF41)
+![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-0d0d0d?style=flat-square&logo=pinecone&logoColor=00FF41)
+![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=flat-square&logo=langchain&logoColor=00FF41)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d0d?style=flat-square&logo=huggingface&logoColor=00FF41)
+![Gemini](https://img.shields.io/badge/Google_Gemini-0d0d0d?style=flat-square&logo=google&logoColor=00FF41)
+![Roboflow](https://img.shields.io/badge/Roboflow_CV-0d0d0d?style=flat-square&logo=roboflow&logoColor=00FF41)
+![Embeddings](https://img.shields.io/badge/Text_Embeddings-0d0d0d?style=flat-square&logo=openai&logoColor=00FF41)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0d0d0d?style=flat-square&logo=digitalocean&logoColor=00FF41)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=00FF41)
+![SSH Deploy](https://img.shields.io/badge/SSH_Zero--Downtime-0d0d0d?style=flat-square&logo=gnubash&logoColor=00FF41)
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/heroicons/trophy.svg?color=%23CBA6F7" height="22"/> Competitive Programming
+## `$ ./leaderboard.sh --competitive`
 
 <div align="center">
 
 <a href="https://codeforces.com/profile/aditya2005">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2005&theme=tokyonight&show_icons=true" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2005&theme=dark&show_icons=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d0d0d" alt="Codeforces Stats"/>
 </a>
 
 <br/><br/>
 
-| Platform | Rating | Rank | Highlight |
-|:---:|:---:|:---:|:---:|
-| **Codeforces** | 2131 — Master | **56th in India** | Top 0.003% — 45/20,000+ in Round 1068 |
-| **LeetCode** | 2360+ — Guardian | Top 0.4% Global | **169/30,000+** in Weekly Contest 462 |
-| **CodeChef** | 2132 — 5★ | 335th in India | Active contest participant |
-| **Problems Solved** | **2000+** | CF · LC · CSES · VJudge | Graphs · DP · Seg Trees · Flows · FFT |
+```
+┌──────────────────┬──────────────────┬──────────────────────────────────┐
+│  PLATFORM        │  RATING          │  HIGHLIGHT                       │
+├──────────────────┼──────────────────┼──────────────────────────────────┤
+│  Codeforces      │  2131 — Master   │  56th India · Top 0.8% global    │
+│  LeetCode        │  2360+ — Guard.  │  #169/30K · Top 0.4% global      │
+│  CodeChef        │  2132 — 5★       │  335th India                     │
+│  Problems        │  2000+           │  CF · LC · CSES · VJudge · HR    │
+│  Best Finish     │  45 / 20,000+    │  Top 0.003% — CF Round 1068      │
+└──────────────────┴──────────────────┴──────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/heroicons/chart-bar.svg?color=%23CBA6F7" height="22"/> GitHub Stats
+## `$ neofetch --github`
+
+<!--
+  ══════════════════════════════════════════════════════════════
+  FIX 1 — GITHUB STATS (rate-limit issue)
+
+  Root cause: github-readme-stats.vercel.app public instance
+  has a 5 req/min limit shared across ALL users → shows errors.
+
+  PERMANENT FIX (2 minutes):
+    1. Fork: https://github.com/anuraghazra/github-readme-stats
+    2. Go to vercel.com → New Project → import your fork
+    3. Add env var:  PAT_1 = <GitHub PAT with read:user scope>
+    4. Deploy → copy your URL
+    5. Replace "github-readme-stats.vercel.app" below with YOUR URL
+
+  TEMP FIX used below:
+    Added cache_seconds=86400 (24h cache) + onerror fallback
+  ══════════════════════════════════════════════════════════════
+
+  FIX 2 — STREAK STATS (demolab.com 503s)
+
+  Root cause: demolab.com is a single-server community host.
+  Goes down occasionally, especially under load.
+
+  SOLUTION: Using github-readme-streak-stats.herokuapp.com
+  as primary (separate infrastructure, more uptime), with
+  demolab as the onerror fallback. Both serve the same API.
+
+  PERMANENT FIX (optional):
+    Self-host: https://github.com/DenverCoder1/github-readme-streak-stats
+    Free deploy on Railway.app or Render.com (1-click).
+  ══════════════════════════════════════════════════════════════
+-->
 
 <div align="center">
 
-<!-- 
-  ════════════════════════════════════════════════════════
-  SELF-HOSTED STATS (RECOMMENDED — avoids rate limits)
-  Deploy https://github.com/anuraghazra/github-readme-stats
-  to Vercel (free, 2 min). Then replace YOUR_VERCEL_URL below.
-  ════════════════════════════════════════════════════════
--->
-
-<!-- Option A: Self-hosted (replace YOUR_VERCEL_URL after deploying) -->
-<!--
-<img height="180em" src="https://YOUR_VERCEL_URL/api?username=Aditgm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&ring_color=cba6f7"/>
-<img height="180em" src="https://YOUR_VERCEL_URL/api/top-langs/?username=Aditgm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8"/>
--->
-
-<!-- Option B: Public instance (may show errors under rate limit) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&ring_color=cba6f7&cache_seconds=1800"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8&cache_seconds=1800"/>
+<!-- Stats + Languages side by side -->
+<img height="175em"
+  src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=false&border_color=00FF41&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41&cache_seconds=86400"
+  alt="GitHub Stats"
+  onerror="this.onerror=null;this.src='https://img.shields.io/badge/GitHub_Stats-Self--host_for_reliability_(see_README_comments)-555?style=for-the-badge&labelColor=0d0d0d'"/>
+&nbsp;
+<img height="175em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=false&border_color=00FF41&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9&cache_seconds=86400"
+  alt="Top Languages"
+  onerror="this.onerror=null;this.src='https://img.shields.io/badge/Top_Languages-Self--host_for_reliability-555?style=for-the-badge&labelColor=0d0d0d'"/>
 
 <br/><br/>
 
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Aditgm&theme=tokyonight-duo&hide_border=true&background=1e1e2e&ring=CBA6F7&fire=CBA6F7&currStreakLabel=CBA6F7&sideLabels=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=585B70" alt="GitHub Streak" />
+<!-- Streak Stats — herokuapp primary, demolab fallback -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Aditgm&theme=dark&hide_border=false&border=00FF41&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&stroke=00FF41"
+  alt="GitHub Streak"
+  onerror="this.onerror=null;this.src='https://streak-stats.demolab.com?user=Aditgm&theme=dark&hide_border=false&border=00FF41&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=555555'"/>
 
 <br/><br/>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditgm&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=cdd6f4&area=true&hide_border=true&area_color=313244" alt="Activity Graph" />
+<!-- Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Aditgm&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=003300&hide_border=false&border_color=00FF41&custom_title=%5BAditgm%5D%20contribution%20log"
+  alt="Activity Graph"
+  onerror="this.onerror=null;this.src='https://img.shields.io/badge/Activity_Graph-unavailable-555?style=flat-square&labelColor=0d0d0d'"/>
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/heroicons/arrow-trending-up.svg?color=%23CBA6F7" height="22"/> Contribution Graph
+## `$ git log --all --oneline --graph`
 
 <div align="center">
 
@@ -259,43 +373,53 @@ const aditya: Engineer = {
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/Aditgm/Aditgm/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph"
-       src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/pacman-contribution-graph.svg">
+       src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/pacman-contribution-graph-dark.svg"/>
 </picture>
 
-<br/><br/>
+<br/>
 
-### <img src="https://api.iconify.design/heroicons/calendar-days.svg?color=%23CBA6F7" height="18"/> Year Overview
+```
+$ git log --format="%h %s" --since="1 year ago" | head -52
+```
 
-<img src="https://ghchart.rshah.org/CBA6F7/Aditgm" alt="Aditgm's GitHub Contribution Chart" />
-
-</div>
-
----
-
-## <img src="https://api.iconify.design/heroicons/academic-cap.svg?color=%23CBA6F7" height="22"/> Experience & Recognition
-
-<div align="center">
-
-| | |
-|:---|:---|
-| <img src="https://api.iconify.design/heroicons/building-office-2.svg?color=%23CBA6F7" height="15"/> &nbsp;**Amazon ML Summer School** | Top 5% of 60,000+ applicants globally |
-| <img src="https://api.iconify.design/heroicons/globe-alt.svg?color=%23CBA6F7" height="15"/> &nbsp;**GirlScript Summer of Code** | Open source contributor — Node.js / Python |
-| <img src="https://api.iconify.design/heroicons/trophy.svg?color=%23FFD700" height="15"/> &nbsp;**Codeforces** | Master (2131) · 56th in India |
-| <img src="https://api.iconify.design/heroicons/trophy.svg?color=%23FFD700" height="15"/> &nbsp;**LeetCode** | Guardian (2360+) · Top 0.4% globally |
-| <img src="https://api.iconify.design/heroicons/trophy.svg?color=%23C0C0C0" height="15"/> &nbsp;**CodeChef** | 5-star (2132) · 335th in India |
-| <img src="https://api.iconify.design/heroicons/cursor-arrow-rays.svg?color=%23CBA6F7" height="15"/> &nbsp;**Best Contest Finish** | 45 / 20,000+ — Top 0.003% globally |
-| <img src="https://api.iconify.design/heroicons/cpu-chip.svg?color=%23CBA6F7" height="15"/> &nbsp;**Topics Mastered** | Graphs · DP · Segment Trees · Flows · FFT · Binary Search |
+<img src="https://ghchart.rshah.org/00FF41/Aditgm" alt="GitHub Contribution Chart"/>
 
 </div>
 
 ---
 
+## `$ cat /var/log/achievements.log`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+```
+[2024] Amazon ML Summer School ............ SELECTED · Top 5% of 60,000+ 
+[2024] GirlScript Summer of Code .......... Contributor · Node.js / Python
+[2024] Codeforces Round 1068 Div.2 ........ 45 / 20,000+ · Top 0.003%   
+[2024] LeetCode Weekly Contest 462 ........ #169 / 30,000+               
+[LIVE] Codeforces ......................... Master · 2131 · 56th India    
+[LIVE] LeetCode ........................... Guardian · 2360+ · Top 0.4%  
+[LIVE] CodeChef ........................... 5★ · 2132 · 335th India      
+[LIVE] Topics ............................. Graphs · DP · SegTree · Flows · FFT
+```
 
-**✨ Open to SDE Internship opportunities ✨**
+</div>
 
-*"The best way to predict the future is to implement it."*
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   Open to SDE Internship opportunities                       ║
+║   $ ping arajsinha4@gmail.com --message "let's build"  ▮    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%24+logout+%23+session+terminated+%C2%B7+github.com%2FAditgm" />
+
+[![](https://visitcount.itsvg.in/api?id=Aditgm&icon=6&color=0)](https://visitcount.itsvg.in)
 
 </div>
