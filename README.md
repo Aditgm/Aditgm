@@ -33,9 +33,9 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  $ whoami                                                    ║
-║    aditya_raj — SWE · AI/ML · Competitive Programmer        ║
+║    aditya_raj — SWE · AI/ML · Competitive Programmer         ║
 ║  $ uname -a                                                  ║
-║    DIT University · B.Tech CSE (AI/ML) · GPA 8.41           ║
+║    DIT University · B.Tech CSE (AI/ML) · GPA 8.41            ║
 ║  $ echo $STATUS                                              ║
 ║    Open to SDE Internships · Building cool stuff ▮          ║
 ╚══════════════════════════════════════════════════════════════╝
