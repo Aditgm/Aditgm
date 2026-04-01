@@ -1,44 +1,51 @@
-name: 🎮 Readme Animations & Stats
+# .github/workflows/readme-animations.yml
+#
+# RUNS: every 12 hours, on push to main, or manually
+# DOES:
+#   Job 1 — generates Pac-Man SVG (light + dark) → pushes to `output` branch
+#   Job 2 — commits a refresh log so your activity graph stays green
+#
+# SETUP REQUIRED:
+#   No secrets needed — uses the built-in GITHUB_TOKEN.
+#   Make sure your repo has GitHub Actions write permission:
+#     Settings → Actions → General → Workflow permissions → Read and write
+
+name: 🎮 README Animations & Stats Refresh
 
 on:
   schedule:
-    # Runs every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # allow manual trigger from Actions tab
   push:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
-  # ─────────────────────────────────────────────
-  # Job 1: Generate Pac-Man Contribution Graph
-  # ─────────────────────────────────────────────
+
+  # ─────────────────────────────────────────────────────────────
+  #  JOB 1 — PAC-MAN CONTRIBUTION GRAPH
+  #  Generates both light + dark SVGs and pushes to `output` branch.
+  #  Your README's <picture> tags point at these files — no change needed.
+  # ─────────────────────────────────────────────────────────────
   pacman-graph:
     name: 🟡 Pac-Man Contribution Graph
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Pac-Man Graph (light + dark)
-        uses: hugoalh/github-actions-core-graphql@v1
-        id: pacman
-        continue-on-error: true  # Don't block if this fails
-
-      # Primary action
-      - name: Generate Snake / Pac-Man animation
+      - name: Generate Pac-Man SVGs (light + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/pacman-contribution-graph.svg?palette=github
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
-          # Use pac-man mode
-          gif: false
 
-      - name: Push output to `output` branch
+      - name: Push SVGs to `output` branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -46,38 +53,38 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  # ─────────────────────────────────────────────
-  # Job 2: Update README Stats Cache (optional)
-  # Bypasses Vercel rate-limits by embedding
-  # a timestamp so GitHub re-fetches the badge.
-  # ─────────────────────────────────────────────
-  update-readme:
-    name: 📊 Refresh README Timestamp
+  # ─────────────────────────────────────────────────────────────
+  #  JOB 2 — STATS CACHE REFRESH
+  #  Commits a tiny log file so:
+  #    a) Your activity graph shows commits (stays green)
+  #    b) GitHub re-fetches all badge/stats image URLs
+  #  Runs after Job 1 to avoid push conflicts on the same branch.
+  # ─────────────────────────────────────────────────────────────
+  refresh-stats:
+    name: 📊 Refresh Stats Cache
     runs-on: ubuntu-latest
-    needs: pacman-graph   # Run after Pac-Man so both commits don't conflict
+    needs: pacman-graph
     timeout-minutes: 5
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Update last-updated badge in README
+      - name: Write refresh timestamp
         run: |
-          DATE=$(date -u '+%Y--%-m--%d')
-          ENCODED=$(python3 -c "import urllib.parse; print(urllib.parse.quote('$DATE'))")
-          # Optionally swap a placeholder badge — only if you added one
-          # sed -i "s/last--updated--[^-]*--[^?]*/last--updated--${ENCODED}--blue/g" README.md
-          echo "Last updated: $DATE"
-          echo "README stats refreshed at $DATE" >> .stats-refresh.log
+          mkdir -p .github
+          echo "Last refreshed: $(date -u '+%Y-%m-%d %H:%M UTC')" > .github/.stats-refresh.log
 
-      - name: Commit refresh log (keeps activity graph green)
+      - name: Commit & push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .stats-refresh.log || true
-          git diff --staged --quiet || git commit -m "chore: 🔄 refresh stats [skip ci]"
+          git add .github/.stats-refresh.log
+          git diff --staged --quiet || git commit -m "chore: 🔄 stats refresh [skip ci]"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
