@@ -393,10 +393,10 @@ $ git log --format="%h %s" --since="1 year ago" | head -52
 <div align="center">
 
 ```
-[2024] Amazon ML Summer School ............ SELECTED · Top 5% of 60,000+ 
-[2024] GirlScript Summer of Code .......... Contributor · Node.js / Python
-[2024] Codeforces Round 1068 Div.2 ........ 45 / 20,000+ · Top 0.003%   
-[2024] LeetCode Weekly Contest 462 ........ #169 / 30,000+               
+[2025] Amazon ML Summer School ............ SELECTED · Top 5% of 60,000+ 
+[2025] GirlScript Summer of Code .......... Contributor · Node.js / Python
+[2025] Codeforces Round 1068 Div.2 ........ 45 / 20,000+ · Top 0.003%   
+[2025] LeetCode Weekly Contest 462 ........ #169 / 30,000+               
 [LIVE] Codeforces ......................... Master · 2131 · 56th India    
 [LIVE] LeetCode ........................... Guardian · 2360+ · Top 0.4%  
 [LIVE] CodeChef ........................... 5★ · 2132 · 335th India      
