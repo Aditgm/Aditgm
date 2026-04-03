@@ -274,16 +274,7 @@ ARCHITECTURE
   ════════════════════════════════════════════════════════════
 -->
 
-<!-- Stats + Languages — replace github-readme-stats.vercel.app with YOUR self-hosted URL -->
-<img height="175em"
-  src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=false&border_color=00FF41&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41&cache_seconds=21600"
-  alt="GitHub Stats"/>
-&nbsp;
-<img height="175em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=false&border_color=00FF41&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9&cache_seconds=21600"
-  alt="Top Languages"/>
 
-<br/><br/>
 
 <!--
   ════════════════════════════════════════════════════════════
