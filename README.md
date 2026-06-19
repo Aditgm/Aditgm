@@ -21,7 +21,7 @@
 
 <br/>
 
-## <img src="assets/icons/about.svg" width="24"/>  About Me
+## <img src="[assets/icons/about.svg](https://github.com/Aditgm/Aditgm/blob/main/profile/about.svg)" width="24"/>  About Me
 
 I'm a B.Tech Computer Science (AI/ML) student at **DIT University**, Dehradun, building production-grade software across full-stack engineering, AI/RAG systems, and distributed systems — while competing at a Master-level standard in competitive programming.
 
