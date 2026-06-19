@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:2575FC&height=230&section=header&text=Aditya%20Raj&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=19&descColor=F0F0F0" width="100%"/>
 
-<br/>
-
 <a href="https://codeforces.com/profile/aditya2005"><img src="https://img.shields.io/badge/Codeforces-Master_2131-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://leetcode.com/u/adityagm/"><img src="https://img.shields.io/badge/LeetCode-Guardian_2360%2B-2575FC?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://www.codechef.com/users/adityagm"><img src="https://img.shields.io/badge/CodeChef-5_Star_2132-6C5CE7?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117"/></a>
@@ -13,23 +11,36 @@
 <a href="https://linkedin.com/in/aditya-raj-18401a377"><img src="https://img.shields.io/badge/LinkedIn-Connect-2575FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 <a href="mailto:arajsinha4@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://portfolio-chi-taupe-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-2575FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://github.com/Aditgm"><img src="https://img.shields.io/badge/GitHub-Follow-6C5CE7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:2575FC&height=3" width="100%"/>
 
 </div>
 
 <br/>
 
-## 🎓 About Me
+## <img src="assets/icons/about.svg" width="24"/>  About Me
 
-I'm a B.Tech Computer Science (AI/ML) student at **DIT University** with a GPA of **8.41**, building production-grade software across full-stack, AI/RAG, and distributed systems — and competing at a Master-level standard in competitive programming.
+I'm a B.Tech Computer Science (AI/ML) student at **DIT University**, Dehradun, building production-grade software across full-stack engineering, AI/RAG systems, and distributed systems — while competing at a Master-level standard in competitive programming.
 
-- 🧠 **Focus areas** — System Design · Distributed Systems · LLM Infrastructure
-- 🛠️ **What I build with** — Full-stack apps · RAG pipelines · Vector databases · PWAs · DevOps
-- 🏆 **Competitive programming** — 2,000+ problems solved · CF Master · LC Guardian
-- 🚀 **Currently** — Open to **SDE Internships, 2025–26**
+- **Focus areas** — System Design · Distributed Systems · LLM Infrastructure
+- **Builds with** — Full-stack apps · RAG pipelines · Vector databases · PWAs · DevOps
+- **Competitive programming** — 2,000+ problems solved · CF Master · LC Guardian
+- **Currently** — Open to **SDE Internships, 2025–26**
 
 <br/>
 
-## 🎯 Competitive Programming
+**Education**
+
+| Institution | Degree | GPA | Location |
+|:--|:--|:--:|:--|
+| DIT University | B.Tech, Computer Science (AI/ML) | 8.41 / 10 | Dehradun, India |
+
+<br/>
+
+## <img src="assets/icons/target.svg" width="24"/>  Competitive Programming
 
 <div align="center">
 
@@ -43,21 +54,31 @@ I'm a B.Tech Computer Science (AI/ML) student at **DIT University** with a GPA o
 
 </div>
 
+**Topics I compete in**
+
+![Graphs](https://img.shields.io/badge/Graphs-6C5CE7?style=flat-square&logoColor=white)
+![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-2575FC?style=flat-square&logoColor=white)
+![Segment Trees](https://img.shields.io/badge/Segment_Trees-6C5CE7?style=flat-square&logoColor=white)
+![Flows](https://img.shields.io/badge/Flows-2575FC?style=flat-square&logoColor=white)
+![FFT](https://img.shields.io/badge/FFT-6C5CE7?style=flat-square&logoColor=white)
+
 <div align="center">
 <br/>
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2005&theme=dark&show_icons=true&border_color=6C5CE7&title_color=6C5CE7&icon_color=2575FC&text_color=c9d1d9&bg_color=0D1117" alt="Codeforces Stats"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2005" alt="Codeforces Stats"/>
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## <img src="assets/icons/analytics.svg" width="24"/>  GitHub Analytics
+
+> The two cards below are generated **once** by the included GitHub Action (`.github/workflows/grs.yml`) and committed into this repo as static SVGs — so they don't depend on the public `github-readme-stats.vercel.app` instance, which the maintainers themselves warn can break under shared rate limits. Run the workflow once from the **Actions** tab to populate them (see the comment at the top of the workflow file for the 2-minute setup).
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=2575FC&text_color=c9d1d9&ring_color=6C5CE7"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=c9d1d9&langs_count=8"/>
+<img height="165" src="profile/stats.svg" alt="GitHub Stats"/>
+<img height="165" src="profile/top-langs.svg" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Aditgm&hide_border=true&background=0D1117&ring=6C5CE7&fire=2575FC&currStreakLabel=6C5CE7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b8fa3&stroke=2575FC"/>
 
@@ -69,7 +90,7 @@ I'm a B.Tech Computer Science (AI/ML) student at **DIT University** with a GPA o
 
 <br/>
 
-## 🏆 Achievements & Milestones
+## <img src="assets/icons/trophy.svg" width="24"/>  Achievements & Milestones
 
 <div align="center">
 
@@ -83,12 +104,12 @@ I'm a B.Tech Computer Science (AI/ML) student at **DIT University** with a GPA o
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aditgm&no-frame=true&column=7&margin-w=10&margin-h=10&title.fontSize=12&number.fontSize=22"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aditgm&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
+## <img src="assets/icons/stack.svg" width="24"/>  Tech Stack
 
 <div align="center">
 
@@ -139,9 +160,9 @@ I'm a B.Tech Computer Science (AI/ML) student at **DIT University** with a GPA o
 
 <br/>
 
-## 📂 Featured Projects
+## <img src="assets/icons/folder.svg" width="24"/>  Featured Projects
 
-### 🟣 DIT PYQ Hub — Full-Stack Academic Resource Platform
+### DIT PYQ Hub — Full-Stack Academic Resource Platform
 
 A production-grade PWA for browsing, uploading, and downloading university question papers, built offline-first for unreliable campus networks.
 
@@ -157,7 +178,7 @@ A production-grade PWA for browsing, uploading, and downloading university quest
 
 <br/>
 
-### 🔵 Legal Lens — AI-Powered Legal Research Platform (RAG)
+### Legal Lens — AI-Powered Legal Research Platform (RAG)
 
 A retrieval-augmented generation pipeline that makes statutory research accessible, searching over 1,000+ chunked legal documents.
 
@@ -171,7 +192,7 @@ A retrieval-augmented generation pipeline that makes statutory research accessib
 
 <br/>
 
-### 🟣 Dengue Spot — Real-Time Disease Surveillance Platform
+### Dengue Spot — Real-Time Disease Surveillance Platform
 
 A community-driven public health platform with live geo-tagged outbreak risk mapping and computer-vision-assisted reporting.
 
@@ -184,9 +205,20 @@ A community-driven public health platform with live geo-tagged outbreak risk map
 
 `React` `Node.js` `Python` `MongoDB` `Socket.io` `Roboflow`
 
+<div align="center">
+<br/>
+<a href="https://github.com/Aditgm?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-2575FC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+</div>
+
 <br/>
 
-## ✉️ Let's Connect
+## <img src="assets/icons/community.svg" width="24"/>  Open Source & Community
+
+I contributed to **GirlScript Summer of Code** as a Node.js / Python contributor, and I'm always glad to collaborate on interesting full-stack, AI/RAG, or competitive-programming-adjacent open-source projects. Feel free to open an issue, send a PR, or just reach out.
+
+<br/>
+
+## <img src="assets/icons/mail.svg" width="24"/>  Let's Connect
 
 <div align="center">
 
