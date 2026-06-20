@@ -295,6 +295,7 @@ Three projects that best represent how I build — full-stack with offline resil
 A production-grade Progressive Web App for browsing, uploading, and downloading university question papers, built offline-first specifically for unreliable campus networks.
 
 *Why I built it:* every semester, previous-year question papers end up scattered across WhatsApp groups and broken Google Drive links. This consolidates them into one fast, reliable, searchable place that still works when the hostel Wi-Fi doesn't.
+```text 
 ARCHITECTURE
 ├── frontend/   React 18 + TypeScript + TanStack Query v5 + Workbox 7.x
 ├── backend/    Node.js + Express + Supabase RLS + PL/pgSQL triggers
