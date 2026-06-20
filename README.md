@@ -439,7 +439,7 @@ Always glad to collaborate on full-stack, AI/RAG, or competitive-programming-adj
 
 ---
 
-## <a name="lets-connect"></a><img src="https://api.iconify.design/mdi:email-outline.svg?color=%236C5CE7" width="24" valign="middle"/> Let's Connect
+## <a name="lets-connect"></a><img src="https://api.iconify.design/mdi:email-outline.svg?color=%236C5CE7" width="24" valign="middle"/> Let's Connec
 
 Thanks for stopping by — if any of this overlaps with what you're building, I'd love to hear from you.
 
