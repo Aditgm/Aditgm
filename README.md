@@ -19,8 +19,6 @@
 
 <br/><br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Aditgm&icon=0&color=6)](https://github.com/Aditgm)
-
 </div>
 
 <br/>
