@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:2575FC&height=230&section=header&text=Aditya%20Raj&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=19&descColor=F0F0F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,22&height=260&section=header&text=Aditya%20Raj&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=19&descColor=F0F0F0" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI%2FML)+%40+DIT+University;Codeforces+Master+%C2%B7+LeetCode+Guardian+%C2%B7+CodeChef+5%E2%98%85;Open+to+SDE+Internships+2025-26"/>
 
@@ -18,6 +18,8 @@
 <a href="https://github.com/Aditgm"><img src="https://img.shields.io/badge/GitHub-Follow-6C5CE7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 
 <br/><br/>
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=Aditgm&icon=0&color=6)](https://github.com/Aditgm)
 
 </div>
 
@@ -295,7 +297,6 @@ Three projects that best represent how I build — full-stack with offline resil
 A production-grade Progressive Web App for browsing, uploading, and downloading university question papers, built offline-first specifically for unreliable campus networks.
 
 *Why I built it:* every semester, previous-year question papers end up scattered across WhatsApp groups and broken Google Drive links. This consolidates them into one fast, reliable, searchable place that still works when the hostel Wi-Fi doesn't.
-```text
 ARCHITECTURE
 ├── frontend/   React 18 + TypeScript + TanStack Query v5 + Workbox 7.x
 ├── backend/    Node.js + Express + Supabase RLS + PL/pgSQL triggers
