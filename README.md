@@ -149,7 +149,11 @@ Competitive programming is where I keep my problem-solving sharp — graphs, DP,
 
 </div>
 
-> Served by free public widgets — on rare occasions they load slowly during heavy traffic. A refresh usually fixes it.
+> **Note on reliability:** these three widgets run on shared free instances (`github-readme-stats.vercel.app`, `streak-stats.demolab.com`, `github-readme-activity-graph.vercel.app`) that occasionally hit Vercel rate limits or return a blank/503 during heavy traffic — this is a known, widely-reported issue with the public instances, not a problem with your markdown. I added `&cache_seconds=86400` above so GitHub caches the rendered SVG for a full day instead of re-fetching on every profile view, which cuts down on failures a lot.
+>
+> If a card still goes blank occasionally, two options if you want it rock-solid:
+> - **Fastest fix:** swap the domain to the community mirror `github-stats-extended.vercel.app` (drop-in compatible, same query params) as a fallback if the original goes down.
+> - **Permanent fix:** fork `anuraghazra/github-readme-stats` and deploy your own free Vercel instance with your own GitHub token — a few-minute one-time setup, and it never gets rate-limited by other users again. Happy to walk you through that if you want.
 
 <br/>
 
@@ -247,6 +251,8 @@ Three projects that best represent how I build — full-stack with offline resil
 
 Offline-first PWA for browsing, uploading, and downloading university question papers — built for unreliable campus networks. Previous-year papers usually end up scattered across WhatsApp groups and broken Drive links; this consolidates them into one fast, searchable place that still works when the hostel Wi-Fi doesn't.
 
+<div align="center">
+
 ![Uptime](https://img.shields.io/badge/Uptime-99.9%25-6C5CE7?style=flat-square&labelColor=0D1117)
 ![Rate Limiting](https://img.shields.io/badge/Rate_Limit-5_req_%2F_3hr-2575FC?style=flat-square&labelColor=0D1117)
 ![Auth](https://img.shields.io/badge/Auth-Bearer_%2B_Row--Level_Security-6C5CE7?style=flat-square&labelColor=0D1117)
@@ -254,6 +260,8 @@ Offline-first PWA for browsing, uploading, and downloading university question p
 `React 18` `TypeScript` `Node.js` `Express` `Supabase` `PostgreSQL` `DigitalOcean` `GitHub Actions` `Workbox` `TanStack Query` `Zod`
 
 **🔗 Links:** *(add your repo / live demo URL here)*
+
+</div>
 
 <details>
 <summary><b>📐 Engineering deep dive</b></summary>
@@ -267,133 +275,196 @@ ARCHITECTURE
 ├── infra/      DigitalOcean + GitHub Actions CI/CD + SSH zero-downtime deploy
 └── security/   Rate limiting · Zod validation · watermarked delivery
 ```
-Key engineering decisions
 
-O(1) download counters via PL/pgSQL triggers — eliminated expensive COUNT(*) queries on every page load
+**Key engineering decisions**
 
-Offline-first design using Workbox's multi-strategy caching (NetworkFirst, CacheFirst, StaleWhileRevalidate) so the app stays usable on flaky hostel/campus Wi-Fi
-
-TanStack Query v5 optimistic updates paired with Supabase Realtime postgres_changes for fast UI sync
-
-Hardened with rate limiting, Zod schema validation, watermarked file delivery, and row-level security policies
-
-Zero-downtime deploys over SSH through GitHub Actions CI/CD, so updates ship without interrupting students mid-download
+- O(1) download counters via PL/pgSQL triggers — eliminated expensive `COUNT(*)` queries on every page load
+- Offline-first design using Workbox's multi-strategy caching (NetworkFirst, CacheFirst, StaleWhileRevalidate) so the app stays usable on flaky hostel/campus Wi-Fi
+- TanStack Query v5 optimistic updates paired with Supabase Realtime `postgres_changes` for fast UI sync
+- Hardened with rate limiting, Zod schema validation, watermarked file delivery, and row-level security policies
+- Zero-downtime deploys over SSH through GitHub Actions CI/CD, so updates ship without interrupting students mid-download
 
 The O(1) counter trigger alone cut a noticeable chunk of database load during exam-season traffic spikes — exactly when fast access to question papers mattered most.
 
 </details>
-⚖️ Legal Lens — AI-Powered Legal Research Platform (RAG)
+
+<br/>
+
+### ⚖️ Legal Lens — AI-Powered Legal Research Platform (RAG)
+
 A retrieval-augmented generation pipeline that makes statutory research accessible — built so a query returns a grounded, citable answer instead of a wall of search results. Statutory research usually means wading through dense legal text to find one relevant clause; a well-grounded RAG pipeline turns that into a direct answer.
 
-https://img.shields.io/badge/Query_Latency-Sub--150ms-6C5CE7?style=flat-square&labelColor=0D1117
-https://img.shields.io/badge/Retrieval_Accuracy-92%2525_top--k-2575FC?style=flat-square&labelColor=0D1117
-https://img.shields.io/badge/Research_Time_Saved-~85%2525-6C5CE7?style=flat-square&labelColor=0D1117
+<div align="center">
 
-Next.js 14 TypeScript Pinecone MongoDB Llama 3.3 70B LangChain Vercel
+![Query Latency](https://img.shields.io/badge/Query_Latency-Sub--150ms-6C5CE7?style=flat-square&labelColor=0D1117)
+![Retrieval Accuracy](https://img.shields.io/badge/Retrieval_Accuracy-92%25_top--k-2575FC?style=flat-square&labelColor=0D1117)
+![Research Time Saved](https://img.shields.io/badge/Research_Time_Saved-~85%25-6C5CE7?style=flat-square&labelColor=0D1117)
 
-🔗 Links: (add your repo / live demo URL here)
+`Next.js 14` `TypeScript` `Pinecone` `MongoDB` `Llama 3.3 70B` `LangChain` `Vercel`
 
-<details> <summary><b>📐 Engineering deep dive</b></summary>
-text
+**🔗 Links:** *(add your repo / live demo URL here)*
+
+</div>
+
+<details>
+<summary><b>📐 Engineering deep dive</b></summary>
+
+<br/>
+
+```text
 ARCHITECTURE
 ├── model/      Llama 3.3 70B via Groq · LangChain orchestration
 ├── retrieval/  Pinecone Vector DB · 1,000+ chunked legal documents
 ├── frontend/   Next.js 14 + TypeScript
 └── backend/    MongoDB persistence · optimized API response caching
-Key engineering decisions
+```
 
-Chunking strategy tuned for legal-document structure to keep retrieved context coherent rather than fragmenting clauses mid-sentence
+**Key engineering decisions**
 
-LangChain orchestration layer keeps retrieval → generation modular, so the underlying model can be swapped without touching retrieval logic
-
-Response caching on the API layer keeps repeat queries fast and cheap
-
-Groq-hosted Llama 3.3 70B chosen specifically for low-latency inference, since research tools live or die on how fast they feel to use
+- Chunking strategy tuned for legal-document structure to keep retrieved context coherent rather than fragmenting clauses mid-sentence
+- LangChain orchestration layer keeps retrieval → generation modular, so the underlying model can be swapped without touching retrieval logic
+- Response caching on the API layer keeps repeat queries fast and cheap
+- Groq-hosted Llama 3.3 70B chosen specifically for low-latency inference, since research tools live or die on how fast they feel to use
 
 </details>
-🦟 Dengue Spot — Real-Time Disease Surveillance Platform
+
+<br/>
+
+### 🦟 Dengue Spot — Real-Time Disease Surveillance Platform
+
 A community-driven public health platform with live geo-tagged risk mapping. Outbreak risk is highly localized and changes fast — a platform that lets a community flag and see breeding sites in real time is far more useful than a static health advisory.
 
-https://img.shields.io/badge/CV-Auto--classifies_breeding_sites-6C5CE7?style=flat-square&labelColor=0D1117
-https://img.shields.io/badge/Alerts-Socket.io_broadcast-2575FC?style=flat-square&labelColor=0D1117
-https://img.shields.io/badge/Security-RBAC_%252B_OAuth2_%252B_JWT-6C5CE7?style=flat-square&labelColor=0D1117
+<div align="center">
 
-MongoDB React Socket.io Python Roboflow Leaflet.js JWT Auth
+![CV](https://img.shields.io/badge/CV-Auto--classifies_breeding_sites-6C5CE7?style=flat-square&labelColor=0D1117)
+![Alerts](https://img.shields.io/badge/Alerts-Socket.io_broadcast-2575FC?style=flat-square&labelColor=0D1117)
+![Security](https://img.shields.io/badge/Security-RBAC_%2B_OAuth2_%2B_JWT-6C5CE7?style=flat-square&labelColor=0D1117)
 
-🔗 Links: (add your repo / live demo URL here)
+`MongoDB` `React` `Socket.io` `Python` `Roboflow` `Leaflet.js` `JWT Auth`
 
-<details> <summary><b>📐 Engineering deep dive</b></summary>
-text
+**🔗 Links:** *(add your repo / live demo URL here)*
+
+</div>
+
+<details>
+<summary><b>📐 Engineering deep dive</b></summary>
+
+<br/>
+
+```text
 ARCHITECTURE
 ├── realtime/   Socket.io bi-directional chat + live alert broadcasting
 ├── cv/         Roboflow pipeline — auto-classifies mosquito breeding sites
 ├── maps/       Leaflet.js + indexed MongoDB geospatial queries
 └── security/   RBAC + Rate Limiting + IP Banning + OAuth 2.0 + JWT
-Key engineering decisions
+```
 
-Roboflow-powered computer vision pipeline auto-classifies user-submitted images of potential breeding sites, cutting down manual triage
+**Key engineering decisions**
 
-Geospatial queries run against indexed MongoDB collections to keep the live risk map responsive as report volume grows
-
-Defense-in-depth security: RBAC for permissions, rate limiting and IP banning against abuse, OAuth 2.0 + JWT for auth
-
-Socket.io broadcasting keeps community alerts real-time instead of relying on page refreshes — important when the alert is "outbreak risk nearby"
+- Roboflow-powered computer vision pipeline auto-classifies user-submitted images of potential breeding sites, cutting down manual triage
+- Geospatial queries run against indexed MongoDB collections to keep the live risk map responsive as report volume grows
+- Defense-in-depth security: RBAC for permissions, rate limiting and IP banning against abuse, OAuth 2.0 + JWT for auth
+- Socket.io broadcasting keeps community alerts real-time instead of relying on page refreshes — important when the alert is "outbreak risk nearby"
 
 </details>
-<a name="achievements"></a>🏆 Achievements & Milestones
-<table> <tr> <td width="56" align="center">🤖</td> <td><b>Amazon ML Summer School</b> — 2025<br/><sub>Selected · Top 5% of 60,000+ applicants</sub></td> </tr> <tr> <td width="56" align="center">🥈</td> <td><b>Codeforces Round 1068 Div. 2</b> — 2025<br/><sub>Rank 45 / 20,000+ · Top 0.003% globally · <a href="https://codeforces.com/profile/aditya2005">Profile</a></sub></td> </tr> <tr> <td width="56" align="center">🥉</td> <td><b>LeetCode Weekly Contest 462</b> — 2025<br/><sub>Rank #169 / 30,000+ · <a href="https://leetcode.com/u/adityagm/">Profile</a></sub></td> </tr> <tr> <td width="56" align="center">🌿</td> <td><b>GirlScript Summer of Code</b> — 2025<br/><sub>Open Source Contributor · Node.js / Python</sub></td> </tr> </table><div align="center"> <br/> <img src="https://github-profile-trophy.vercel.app/?username=Aditgm&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/> </div>
-<a name="how-i-work"></a>🧭 How I Work
-Design for the worst network, not the average one. Offline-first and graceful degradation aren't edge cases — they're the default assumption.
 
-Measure before optimizing. The O(1) trigger and sub-150ms RAG latency both came from profiling first, not guessing.
+<br/>
 
-Security is a default, not a feature. Rate limiting, RBAC, and input validation go in from day one, not bolted on before a demo.
+---
 
-Modular beats clever. Swappable pieces (models, caching strategies, auth providers) age a lot better than tightly-coupled "smart" solutions.
+## <a name="achievements"></a>🏆 Achievements & Milestones
 
-Read the postmortem before you need one. Most caching and rate-limiting decisions above came from anticipating failure modes, not reacting to them.
+<table>
+<tr>
+<td width="56" align="center">🤖</td>
+<td><b>Amazon ML Summer School</b> — 2025<br/><sub>Selected · Top 5% of 60,000+ applicants</sub></td>
+</tr>
+<tr>
+<td width="56" align="center">🥈</td>
+<td><b>Codeforces Round 1068 Div. 2</b> — 2025<br/><sub>Rank 45 / 20,000+ · Top 0.003% globally · <a href="https://codeforces.com/profile/aditya2005">Profile</a></sub></td>
+</tr>
+<tr>
+<td width="56" align="center">🥉</td>
+<td><b>LeetCode Weekly Contest 462</b> — 2025<br/><sub>Rank #169 / 30,000+ · <a href="https://leetcode.com/u/adityagm/">Profile</a></sub></td>
+</tr>
+<tr>
+<td width="56" align="center">🌿</td>
+<td><b>GirlScript Summer of Code</b> — 2025<br/><sub>Open Source Contributor · Node.js / Python</sub></td>
+</tr>
+</table>
 
-Competitive programming keeps the fundamentals sharp. Knowing the right data structure cold makes "is this fast enough" an instant answer instead of a guess.
+<div align="center">
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aditgm&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+</div>
 
+<br/>
 
-<a name="open-source"></a>🍃 Open Source & Community
+---
+
+## <a name="how-i-work"></a>🧭 How I Work
+
+- **Design for the worst network, not the average one.** Offline-first and graceful degradation aren't edge cases — they're the default assumption.
+- **Measure before optimizing.** The O(1) trigger and sub-150ms RAG latency both came from profiling first, not guessing.
+- **Security is a default, not a feature.** Rate limiting, RBAC, and input validation go in from day one, not bolted on before a demo.
+- **Modular beats clever.** Swappable pieces (models, caching strategies, auth providers) age a lot better than tightly-coupled "smart" solutions.
+- **Read the postmortem before you need one.** Most caching and rate-limiting decisions above came from anticipating failure modes, not reacting to them.
+- **Competitive programming keeps the fundamentals sharp.** Knowing the right data structure cold makes "is this fast enough" an instant answer instead of a guess.
+
+<br/>
+
+---
+
+## <a name="open-source"></a>🍃 Open Source & Community
+
 I contributed to GirlScript Summer of Code as a Node.js / Python contributor, working alongside other contributors on real issues rather than toy tickets — a collaborative, review-driven workflow that's hard to replicate solo.
 
 Always glad to collaborate on full-stack, AI/RAG, or competitive-programming-adjacent open-source projects. Issues, PRs, and "hey, want to pair on this" messages are all welcome — check out my repositories. If you're working on something in the RAG, distributed systems, or CP-tooling space, I'd genuinely enjoy hearing about it even if it's not a formal collaboration.
 
+<br/>
 
-<a name="currently"></a>🔭 Currently
-<table> <tr> <td width="50%" valign="top">
-Right now
+---
 
-🔨 Building production-grade full-stack and AI/RAG systems
+## <a name="currently"></a>🔭 Currently
 
-📖 Going deeper on distributed systems patterns and LLM infra
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🥇 Competing regularly on Codeforces, LeetCode, CodeChef
+**Right now**
 
-💼 Open to SDE Internships, 2025–26
+- 🔨 Building production-grade full-stack and AI/RAG systems
+- 📖 Going deeper on distributed systems patterns and LLM infra
+- 🥇 Competing regularly on Codeforces, LeetCode, CodeChef
+- 💼 Open to SDE Internships, 2025–26
 
-</td> <td width="50%" valign="top">
-2026 goals
+</td>
+<td width="50%" valign="top">
 
-Push deeper into distributed systems & LLM infra design
+**2026 goals**
 
-Take Legal Lens and Dengue Spot from project-grade to production-ready
+- Push deeper into distributed systems & LLM infra design
+- Take Legal Lens and Dengue Spot from project-grade to production-ready
+- Keep climbing on Codeforces, LeetCode, and CodeChef
+- Land an SDE internship working on systems at real scale
+- Ship a project actually used outside my own circle
 
-Keep climbing on Codeforces, LeetCode, and CodeChef
+</td>
+</tr>
+</table>
 
-Land an SDE internship working on systems at real scale
+<br/>
 
-Ship a project actually used outside my own circle
+---
 
-</td> </tr> </table>
-<a name="lets-connect"></a>✉️ Let's Connect
+## <a name="lets-connect"></a>✉️ Let's Connect
+
 Thanks for stopping by — if any of this overlaps with what you're building, I'd love to hear from you.
 
 <div align="center">
+
 <a href="https://linkedin.com/in/aditya-raj-18401a377"><img src="https://img.shields.io/badge/LinkedIn-Connect-2575FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 <a href="mailto:arajsinha4@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://portfolio-chi-taupe-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-2575FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
 
-</div></div> 
+</div>
