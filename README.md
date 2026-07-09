@@ -45,9 +45,9 @@
 
 </div>
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
+</div>
 
 ## <a name="about-me"></a>🧑‍💻 About Me
 
@@ -65,9 +65,9 @@ On the AI/ML side, I'm less interested in chasing the newest model and more inte
 
 </div>
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
+</div>
 
 ## <a name="education"></a>🎓 Education
 
@@ -81,9 +81,9 @@ On the AI/ML side, I'm less interested in chasing the newest model and more inte
 
 </div>
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
+</div>
 
 ## <a name="stats-cp"></a>📊 Stats & Competitive Programming
 
@@ -103,13 +103,7 @@ Competitive programming is where I keep my problem-solving sharp — graphs, DP,
 ![Best Finish](https://img.shields.io/badge/Best_Contest_Finish-45_%2F_20%2C000%2B-2575FC?style=flat-square&labelColor=0D1117)
 ![Platforms](https://img.shields.io/badge/Across-CF_·_LC_·_CSES_·_VJudge_·_HackerRank-6C5CE7?style=flat-square&labelColor=0D1117)
 
-</div>
-
-<br/>
-
 **Topics I compete in**
-
-<div align="center">
 
 ![Graphs](https://img.shields.io/badge/Graphs-6C5CE7?style=flat-square&logoColor=white)
 ![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-2575FC?style=flat-square&logoColor=white)
@@ -128,36 +122,56 @@ Competitive programming is where I keep my problem-solving sharp — graphs, DP,
 
 </div>
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
+</div>
 
 ## <a name="github-analytics"></a>📈 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=2575FC&text_color=c9d1d9&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=c9d1d9&langs_count=8&cache_seconds=86400"/>
+<img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
+<img height="165" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Aditgm&hide_border=true&background=0D1117&ring=6C5CE7&fire=2575FC&currStreakLabel=6C5CE7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b8fa3&stroke=2575FC"/>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak"/></a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditgm&bg_color=0D1117&color=6C5CE7&line=2575FC&point=FFFFFF&area=true&area_color=2575FC&hide_border=true&custom_title=Contribution%20Activity"/>
+<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
 
-> **Note on reliability:** these three widgets run on shared free instances (`github-readme-stats.vercel.app`, `streak-stats.demolab.com`, `github-readme-activity-graph.vercel.app`) that occasionally hit Vercel rate limits or return a blank/503 during heavy traffic — this is a known, widely-reported issue with the public instances, not a problem with your markdown. I added `&cache_seconds=86400` above so GitHub caches the rendered SVG for a full day instead of re-fetching on every profile view, which cuts down on failures a lot.
->
-> If a card still goes blank occasionally, two options if you want it rock-solid:
-> - **Fastest fix:** swap the domain to the community mirror `github-stats-extended.vercel.app` (drop-in compatible, same query params) as a fallback if the original goes down.
-> - **Permanent fix:** fork `anuraghazra/github-readme-stats` and deploy your own free Vercel instance with your own GitHub token — a few-minute one-time setup, and it never gets rate-limited by other users again. Happy to walk you through that if you want.
+**These cards are self-hosted, not pulled live from a third-party API — this is the actual fix.**
+
+The old setup called `github-readme-stats.vercel.app`, `streak-stats.demolab.com`, and `github-readme-activity-graph.vercel.app` on every single profile view. Those are free shared instances used by hundreds of thousands of profiles, so they intermittently rate-limit or 503 — that's what was breaking your cards, not your markdown.
+
+I switched the setup so a GitHub Action running *in your own profile repo* generates each card as a static `.svg` file once a day (or whenever you trigger it manually) and commits it straight into the repo. Your README then just points at that local file (`./profile/stats.svg`, etc.) — GitHub serves it directly, no external server, no rate limit, no downtime.
+
+<details>
+<summary><b>⚙️ How to activate this (3 files, ~5 minutes)</b></summary>
 
 <br/>
 
----
+1. In your profile repo (`Aditgm/Aditgm`), create these files exactly as provided alongside this README:
+   - `.github/workflows/profile-cards.yml` → generates `profile/stats.svg`, `profile/top-langs.svg`, `profile/streak.svg`
+   - `.github/workflows/snake.yml` → generates the animated contribution snake, pushed to an `output` branch
+   - `.github/workflows/contrib-3d.yml` *(optional flair)* → generates a rotating 3D contribution calendar
+
+2. Go to **Settings → Actions → General → Workflow permissions** in the repo and enable **"Read and write permissions"** — the workflow needs this to commit the SVGs back.
+
+3. Go to the **Actions** tab, select each workflow, and click **"Run workflow"** once to generate the first version. After that they run automatically every day at 03:00 UTC.
+
+4. That's it — the README above already points at the right paths (`./profile/stats.svg` and the `output` branch raw URL). Nothing else to change.
+
+No more Vercel dependency for these three cards. If a card ever looks stale, just re-run the workflow manually from the Actions tab.
+
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
+</div>
 
 ## <a name="tech-stack"></a>🛠️ Tech Stack
 
@@ -227,9 +241,9 @@ Competitive programming is where I keep my problem-solving sharp — graphs, DP,
 
 </details>
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
+</div>
 
 ## <a name="featured-projects"></a>📁 Featured Projects
 
@@ -260,6 +274,7 @@ Offline-first PWA for browsing, uploading, and downloading university question p
 `React 18` `TypeScript` `Node.js` `Express` `Supabase` `PostgreSQL` `DigitalOcean` `GitHub Actions` `Workbox` `TanStack Query` `Zod`
 
 **🔗 Links:** *(add your repo / live demo URL here)*
+<!-- **🔗 Links:** [Live Demo](https://your-demo-url.com) · [Repository](https://github.com/Aditgm/dit-pyq-hub) -->
 
 </div>
 
@@ -303,6 +318,7 @@ A retrieval-augmented generation pipeline that makes statutory research accessib
 `Next.js 14` `TypeScript` `Pinecone` `MongoDB` `Llama 3.3 70B` `LangChain` `Vercel`
 
 **🔗 Links:** *(add your repo / live demo URL here)*
+<!-- **🔗 Links:** [Live Demo](https://your-demo-url.com) · [Repository](https://github.com/Aditgm/legal-lens) -->
 
 </div>
 
@@ -343,6 +359,7 @@ A community-driven public health platform with live geo-tagged risk mapping. Out
 `MongoDB` `React` `Socket.io` `Python` `Roboflow` `Leaflet.js` `JWT Auth`
 
 **🔗 Links:** *(add your repo / live demo URL here)*
+<!-- **🔗 Links:** [Live Demo](https://your-demo-url.com) · [Repository](https://github.com/Aditgm/dengue-spot) -->
 
 </div>
 
@@ -368,9 +385,9 @@ ARCHITECTURE
 
 </details>
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
+</div>
 
 ## <a name="achievements"></a>🏆 Achievements & Milestones
 
@@ -396,11 +413,17 @@ ARCHITECTURE
 <div align="center">
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=Aditgm&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+<br/><br/>
+<details>
+<summary><b>🧊 3D contribution calendar</b> (animated, self-hosted — see setup above)</summary>
+<br/>
+<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar"/>
+</details>
 </div>
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
+</div>
 
 ## <a name="how-i-work"></a>🧭 How I Work
 
@@ -411,9 +434,9 @@ ARCHITECTURE
 - **Read the postmortem before you need one.** Most caching and rate-limiting decisions above came from anticipating failure modes, not reacting to them.
 - **Competitive programming keeps the fundamentals sharp.** Knowing the right data structure cold makes "is this fast enough" an instant answer instead of a guess.
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
+</div>
 
 ## <a name="open-source"></a>🍃 Open Source & Community
 
@@ -421,9 +444,9 @@ I contributed to GirlScript Summer of Code as a Node.js / Python contributor, wo
 
 Always glad to collaborate on full-stack, AI/RAG, or competitive-programming-adjacent open-source projects. Issues, PRs, and "hey, want to pair on this" messages are all welcome — check out my repositories. If you're working on something in the RAG, distributed systems, or CP-tooling space, I'd genuinely enjoy hearing about it even if it's not a formal collaboration.
 
-<br/>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
+</div>
 
 ## <a name="currently"></a>🔭 Currently
 
@@ -455,7 +478,7 @@ Always glad to collaborate on full-stack, AI/RAG, or competitive-programming-adj
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,22&height=150&section=footer&text=Let's%20Connect&fontSize=32&fontColor=FFFFFF&fontAlignY=68&animation=fadeIn" width="100%"/>
 
 ## <a name="lets-connect"></a>✉️ Let's Connect
 
