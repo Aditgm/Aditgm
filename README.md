@@ -20,7 +20,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Aditgm&label=Profile%20Views&color=6c5ce7&style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Open_to_SDE_Internships_2025--26-2575FC?style=flat-square&labelColor=0D1117"/>
+<img src="./assets/badges/status-pill.svg" height="26"/>
 
 </div>
 
@@ -45,17 +45,13 @@
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
 
 ## <a name="about-me"></a>🧑‍💻 About Me
 
 I'm a B.Tech Computer Science (AI/ML) student building production-grade software across full-stack engineering, AI/RAG systems, and distributed systems — while competing at a Master-level standard in competitive programming.
 
 I like systems that have to actually hold up under real constraints: offline-first PWAs for flaky networks, retrieval pipelines that have to stay accurate at scale, real-time platforms that can't afford to drop a message. Competitive programming sharpens the algorithmic side of that — the same instinct for "what's the actual bottleneck here" shows up whether I'm optimizing a segment tree or a database trigger.
-
-On the AI/ML side, I'm less interested in chasing the newest model and more interested in the plumbing around it — chunking strategy, retrieval accuracy, latency, and what happens when the model is confidently wrong. **Legal Lens** below came directly out of that interest.
 
 <div align="center">
 
@@ -65,9 +61,7 @@ On the AI/ML side, I'm less interested in chasing the newest model and more inte
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
 
 ## <a name="education"></a>🎓 Education
 
@@ -81,13 +75,9 @@ On the AI/ML side, I'm less interested in chasing the newest model and more inte
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
 
 ## <a name="stats-cp"></a>📊 Stats & Competitive Programming
-
-Competitive programming is where I keep my problem-solving sharp — graphs, DP, segment trees, flows, FFT, the usual gauntlet. My approach: participate in every rated round I can, then spend more time upsolving the problems I got wrong than celebrating the ones I got right.
 
 <div align="center">
 
@@ -122,9 +112,7 @@ Competitive programming is where I keep my problem-solving sharp — graphs, DP,
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
 
 ## <a name="github-analytics"></a>📈 GitHub Analytics
 
@@ -141,37 +129,17 @@ Competitive programming is where I keep my problem-solving sharp — graphs, DP,
 
 <img src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
-</div>
-
-**These cards are self-hosted, not pulled live from a third-party API — this is the actual fix.**
-
-The old setup called `github-readme-stats.vercel.app`, `streak-stats.demolab.com`, and `github-readme-activity-graph.vercel.app` on every single profile view. Those are free shared instances used by hundreds of thousands of profiles, so they intermittently rate-limit or 503 — that's what was breaking your cards, not your markdown.
-
-I switched the setup so a GitHub Action running *in your own profile repo* generates each card as a static `.svg` file once a day (or whenever you trigger it manually) and commits it straight into the repo. Your README then just points at that local file (`./profile/stats.svg`, etc.) — GitHub serves it directly, no external server, no rate limit, no downtime.
+<br/><br/>
 
 <details>
-<summary><b>⚙️ How to activate this (3 files, ~5 minutes)</b></summary>
-
+<summary><b>🧊 3D contribution calendar</b></summary>
 <br/>
-
-1. In your profile repo (`Aditgm/Aditgm`), create these files exactly as provided alongside this README:
-   - `.github/workflows/profile-cards.yml` → generates `profile/stats.svg`, `profile/top-langs.svg`, `profile/streak.svg`
-   - `.github/workflows/snake.yml` → generates the animated contribution snake, pushed to an `output` branch
-   - `.github/workflows/contrib-3d.yml` *(optional flair)* → generates a rotating 3D contribution calendar
-
-2. Go to **Settings → Actions → General → Workflow permissions** in the repo and enable **"Read and write permissions"** — the workflow needs this to commit the SVGs back.
-
-3. Go to the **Actions** tab, select each workflow, and click **"Run workflow"** once to generate the first version. After that they run automatically every day at 03:00 UTC.
-
-4. That's it — the README above already points at the right paths (`./profile/stats.svg` and the `output` branch raw URL). Nothing else to change.
-
-No more Vercel dependency for these three cards. If a card ever looks stale, just re-run the workflow manually from the Actions tab.
-
+<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar"/>
 </details>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
 </div>
+
+<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
 
 ## <a name="tech-stack"></a>🛠️ Tech Stack
 
@@ -206,7 +174,7 @@ No more Vercel dependency for these three cards. If a card ever looks stale, jus
 <br/>
 
 <details>
-<summary><b>🔧 Specialized tooling</b> — state management, auth, and AI/RAG-specific stack (click to expand)</summary>
+<summary><b>🔧 Specialized tooling</b> — state management, auth, and AI/RAG-specific stack</summary>
 
 <br/>
 
@@ -241,20 +209,16 @@ No more Vercel dependency for these three cards. If a card ever looks stale, jus
 
 </details>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
 
 ## <a name="featured-projects"></a>📁 Featured Projects
-
-Three projects that best represent how I build — full-stack with offline resilience, AI/RAG with grounded retrieval, and real-time systems with computer vision baked in.
 
 <div align="center">
 
 | Project | Category | Primary Stack |
 |:--|:--|:--|
 | 📚 DIT PYQ Hub | Full-Stack PWA | React · Node.js · Supabase · PostgreSQL |
-| ⚖️ Legal Lens | AI / RAG | Next.js · LangChain · Pinecone · Llama 3.3 70B |
+| ⚖️ Legal Lens | AI / RAG · Legal-Tech | Next.js · LangChain · Pinecone · Llama 3.3 70B |
 | 🦟 Dengue Spot | Real-Time + CV | React · Socket.io · Roboflow · MongoDB |
 
 </div>
@@ -266,6 +230,8 @@ Three projects that best represent how I build — full-stack with offline resil
 Offline-first PWA for browsing, uploading, and downloading university question papers — built for unreliable campus networks. Previous-year papers usually end up scattered across WhatsApp groups and broken Drive links; this consolidates them into one fast, searchable place that still works when the hostel Wi-Fi doesn't.
 
 <div align="center">
+<img src="./assets/screenshots/dit-pyq-hub.png" width="100%" alt="DIT PYQ Hub screenshot"/>
+<br/><br/>
 
 ![Uptime](https://img.shields.io/badge/Uptime-99.9%25-6C5CE7?style=flat-square&labelColor=0D1117)
 ![Rate Limiting](https://img.shields.io/badge/Rate_Limit-5_req_%2F_3hr-2575FC?style=flat-square&labelColor=0D1117)
@@ -273,8 +239,7 @@ Offline-first PWA for browsing, uploading, and downloading university question p
 
 `React 18` `TypeScript` `Node.js` `Express` `Supabase` `PostgreSQL` `DigitalOcean` `GitHub Actions` `Workbox` `TanStack Query` `Zod`
 
-**🔗 Links:** *(add your repo / live demo URL here)*
-<!-- **🔗 Links:** [Live Demo](https://your-demo-url.com) · [Repository](https://github.com/Aditgm/dit-pyq-hub) -->
+**🔗 [Live Demo](https://dit-pyq-hub.vercel.app/)**
 
 </div>
 
@@ -299,26 +264,25 @@ ARCHITECTURE
 - Hardened with rate limiting, Zod schema validation, watermarked file delivery, and row-level security policies
 - Zero-downtime deploys over SSH through GitHub Actions CI/CD, so updates ship without interrupting students mid-download
 
-The O(1) counter trigger alone cut a noticeable chunk of database load during exam-season traffic spikes — exactly when fast access to question papers mattered most.
-
 </details>
 
 <br/>
 
-### ⚖️ Legal Lens — AI-Powered Legal Research Platform (RAG)
+### ⚖️ Legal Lens — AI-Powered Legal Help Platform for Women's Safety
 
-A retrieval-augmented generation pipeline that makes statutory research accessible — built so a query returns a grounded, citable answer instead of a wall of search results. Statutory research usually means wading through dense legal text to find one relevant clause; a well-grounded RAG pipeline turns that into a direct answer.
+A community-driven, AI-powered platform focused on making women's workplace safety law accessible — POSH Act compliance, legal rights, and grounded guidance through a conversational interface, backed by a RAG pipeline over statutory text instead of generic model recall.
 
 <div align="center">
+<img src="./assets/screenshots/legal-lens.png" width="100%" alt="Legal Lens screenshot"/>
+<br/><br/>
 
 ![Query Latency](https://img.shields.io/badge/Query_Latency-Sub--150ms-6C5CE7?style=flat-square&labelColor=0D1117)
 ![Retrieval Accuracy](https://img.shields.io/badge/Retrieval_Accuracy-92%25_top--k-2575FC?style=flat-square&labelColor=0D1117)
-![Research Time Saved](https://img.shields.io/badge/Research_Time_Saved-~85%25-6C5CE7?style=flat-square&labelColor=0D1117)
+![Availability](https://img.shields.io/badge/Availability-24%2F7_%C2%B7_Free_%C2%B7_Confidential-6C5CE7?style=flat-square&labelColor=0D1117)
 
 `Next.js 14` `TypeScript` `Pinecone` `MongoDB` `Llama 3.3 70B` `LangChain` `Vercel`
 
-**🔗 Links:** *(add your repo / live demo URL here)*
-<!-- **🔗 Links:** [Live Demo](https://your-demo-url.com) · [Repository](https://github.com/Aditgm/legal-lens) -->
+**🔗 [Repository](https://github.com/Aditgm/Legal_Lens)**
 
 </div>
 
@@ -340,7 +304,7 @@ ARCHITECTURE
 - Chunking strategy tuned for legal-document structure to keep retrieved context coherent rather than fragmenting clauses mid-sentence
 - LangChain orchestration layer keeps retrieval → generation modular, so the underlying model can be swapped without touching retrieval logic
 - Response caching on the API layer keeps repeat queries fast and cheap
-- Groq-hosted Llama 3.3 70B chosen specifically for low-latency inference, since research tools live or die on how fast they feel to use
+- Groq-hosted Llama 3.3 70B chosen specifically for low-latency inference, since a support tool for something this sensitive lives or dies on how fast and reliable it feels
 
 </details>
 
@@ -351,6 +315,8 @@ ARCHITECTURE
 A community-driven public health platform with live geo-tagged risk mapping. Outbreak risk is highly localized and changes fast — a platform that lets a community flag and see breeding sites in real time is far more useful than a static health advisory.
 
 <div align="center">
+<img src="./assets/screenshots/dengue-spot.png" width="100%" alt="Dengue Spot screenshot"/>
+<br/><br/>
 
 ![CV](https://img.shields.io/badge/CV-Auto--classifies_breeding_sites-6C5CE7?style=flat-square&labelColor=0D1117)
 ![Alerts](https://img.shields.io/badge/Alerts-Socket.io_broadcast-2575FC?style=flat-square&labelColor=0D1117)
@@ -358,8 +324,7 @@ A community-driven public health platform with live geo-tagged risk mapping. Out
 
 `MongoDB` `React` `Socket.io` `Python` `Roboflow` `Leaflet.js` `JWT Auth`
 
-**🔗 Links:** *(add your repo / live demo URL here)*
-<!-- **🔗 Links:** [Live Demo](https://your-demo-url.com) · [Repository](https://github.com/Aditgm/dengue-spot) -->
+**🔗 [Live Demo](https://dengue-spot-gi3p.onrender.com/)**
 
 </div>
 
@@ -385,9 +350,7 @@ ARCHITECTURE
 
 </details>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
 
 ## <a name="achievements"></a>🏆 Achievements & Milestones
 
@@ -413,17 +376,9 @@ ARCHITECTURE
 <div align="center">
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=Aditgm&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
-<br/><br/>
-<details>
-<summary><b>🧊 3D contribution calendar</b> (animated, self-hosted — see setup above)</summary>
-<br/>
-<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar"/>
-</details>
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
 
 ## <a name="how-i-work"></a>🧭 How I Work
 
@@ -431,22 +386,17 @@ ARCHITECTURE
 - **Measure before optimizing.** The O(1) trigger and sub-150ms RAG latency both came from profiling first, not guessing.
 - **Security is a default, not a feature.** Rate limiting, RBAC, and input validation go in from day one, not bolted on before a demo.
 - **Modular beats clever.** Swappable pieces (models, caching strategies, auth providers) age a lot better than tightly-coupled "smart" solutions.
-- **Read the postmortem before you need one.** Most caching and rate-limiting decisions above came from anticipating failure modes, not reacting to them.
 - **Competitive programming keeps the fundamentals sharp.** Knowing the right data structure cold makes "is this fast enough" an instant answer instead of a guess.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
 
 ## <a name="open-source"></a>🍃 Open Source & Community
 
-I contributed to GirlScript Summer of Code as a Node.js / Python contributor, working alongside other contributors on real issues rather than toy tickets — a collaborative, review-driven workflow that's hard to replicate solo.
+I contributed to GirlScript Summer of Code as a Node.js / Python contributor, working alongside other contributors on real issues rather than toy tickets.
 
-Always glad to collaborate on full-stack, AI/RAG, or competitive-programming-adjacent open-source projects. Issues, PRs, and "hey, want to pair on this" messages are all welcome — check out my repositories. If you're working on something in the RAG, distributed systems, or CP-tooling space, I'd genuinely enjoy hearing about it even if it's not a formal collaboration.
+Always glad to collaborate on full-stack, AI/RAG, or competitive-programming-adjacent open-source projects — issues, PRs, and "want to pair on this" messages are all welcome.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,4,8,12,22&height=3&width=1000" width="100%"/>
-</div>
+<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
 
 ## <a name="currently"></a>🔭 Currently
 
@@ -470,7 +420,6 @@ Always glad to collaborate on full-stack, AI/RAG, or competitive-programming-adj
 - Take Legal Lens and Dengue Spot from project-grade to production-ready
 - Keep climbing on Codeforces, LeetCode, and CodeChef
 - Land an SDE internship working on systems at real scale
-- Ship a project actually used outside my own circle
 
 </td>
 </tr>
@@ -481,8 +430,6 @@ Always glad to collaborate on full-stack, AI/RAG, or competitive-programming-adj
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,22&height=150&section=footer&text=Let's%20Connect&fontSize=32&fontColor=FFFFFF&fontAlignY=68&animation=fadeIn" width="100%"/>
 
 ## <a name="lets-connect"></a>✉️ Let's Connect
-
-Thanks for stopping by — if any of this overlaps with what you're building, I'd love to hear from you.
 
 <div align="center">
 
