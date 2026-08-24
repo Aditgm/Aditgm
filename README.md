@@ -1,177 +1,190 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,22&height=260&section=header&text=Aditya%20Raj&fontSize=64&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=19&descColor=F0F0F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:6C5CE7,100:2575FC&height=280&section=header&text=Aditya%20Raj&fontSize=70&fontColor=FFFFFF&fontAlignY=34&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI%2FML)+%40+DIT+University;Codeforces+Master+%C2%B7+LeetCode+Guardian+%C2%B7+CodeChef+5%E2%98%85;Open+to+SDE+Internships+2025-26"/>
-
-<br/>
-
-<a href="https://codeforces.com/profile/aditya2005"><img src="https://img.shields.io/badge/Codeforces-Master_2131-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://leetcode.com/u/adityagm/"><img src="https://img.shields.io/badge/LeetCode-Guardian_2360%2B-2575FC?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://www.codechef.com/users/adityagm"><img src="https://img.shields.io/badge/CodeChef-5_Star_2132-6C5CE7?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117"/></a>
-
-<br/>
-
-<a href="https://linkedin.com/in/aditya-raj-18401a377"><img src="https://img.shields.io/badge/LinkedIn-Connect-2575FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-<a href="mailto:arajsinha4@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://portfolio-chi-taupe-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-2575FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://github.com/Aditgm"><img src="https://img.shields.io/badge/GitHub-Follow-6C5CE7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://codeforces.com/profile/aditya2005"><img height="150" src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C5CE7&icon_color=2575FC&text_color=C9D1D9" alt="GitHub Stats"/></a>
+<a href="https://leetcode.com/u/adityagm/"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&hide_border=true&bg_color=00000000&title_color=6C5CE7&text_color=C9D1D9" alt="Top Languages"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Aditgm&label=Profile%20Views&color=6c5ce7&style=flat-square"/>
-<img src="./assets/badges/status-pill.svg" height="26"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=720&lines=B.Tech+CSE+(AI%2FML)+%40+DIT+University+%C2%B7+GPA+8.41;Codeforces+Master+2131+%C2%B7+LeetCode+Guardian+2360+%C2%B7+CodeChef+5%E2%98%85+2132;2%2C000%2B+Problems+Solved+%C2%B7+Top+0.8%25+Globally;Building+Full-Stack+%C2%B7+AI%2FRAG+%C2%B7+Distributed+Systems;Open+to+SDE+Internships+2025%E2%80%9326" alt="typing"/>
 
 <br/>
 
-<div align="center">
+<a href="https://linkedin.com/in/aditya-raj-18401a377"><img src="https://img.shields.io/badge/LinkedIn-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:arajsinha4@gmail.com"><img src="https://img.shields.io/badge/Gmail-%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/></a>
+<a href="https://portfolio-chi-taupe-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%20-2575FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://github.com/Aditgm"><img src="https://img.shields.io/badge/GitHub-%20-6C5CE7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://codeforces.com/profile/aditya2005"><img src="https://img.shields.io/badge/Codeforces-%20-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Codeforces"/></a>
+<a href="https://www.codechef.com/users/adityagm"><img src="https://img.shields.io/badge/CodeChef-%20-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" alt="CodeChef"/></a>
 
-|  |  |
-|:--|:--|
-| 👤 **Name** | Aditya Raj |
-| 🎯 **Role** | Software Engineer · AI/ML Builder · Competitive Programmer |
-| 🎓 **Education** | B.Tech CSE (AI/ML), DIT University |
-| 📍 **Location** | Dehradun, India |
+<br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-**[About Me](#about-me) · [Education](#education) · [Stats & CP](#stats-cp) · [GitHub Analytics](#github-analytics) · [Tech Stack](#tech-stack) · [Projects](#featured-projects) · [Achievements](#achievements) · [How I Work](#how-i-work) · [Open Source](#open-source) · [Currently](#currently) · [Connect](#lets-connect)**
+<img src="https://komarev.com/ghpvc/?username=Aditgm&label=Profile%20Views&color=6c5ce7&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2-Open_to_SDE_Internships_2025--26-2EA043?style=for-the-badge&labelColor=0D1117" alt="status"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%A7-Reply_within_24h-2575FC?style=for-the-badge&labelColor=0D1117" alt="reply"/>
 
 </div>
 
-<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## <a name="about-me"></a>🧑‍💻 About Me
+## 🧑‍💻 Who Am I?
 
-I'm a B.Tech Computer Science (AI/ML) student building production-grade software across full-stack engineering, AI/RAG systems, and distributed systems — while competing at a Master-level standard in competitive programming.
+> *I like systems that have to actually hold up under real constraints — offline-first PWAs for flaky networks, retrieval pipelines that stay accurate at scale, real-time platforms that can't afford to drop a message.*
 
-I like systems that have to actually hold up under real constraints: offline-first PWAs for flaky networks, retrieval pipelines that have to stay accurate at scale, real-time platforms that can't afford to drop a message. Competitive programming sharpens the algorithmic side of that — the same instinct for "what's the actual bottleneck here" shows up whether I'm optimizing a segment tree or a database trigger.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-
-| 🧠 **Focus** | 🔧 **Builds with** | 🏆 **Competitive Programming** |
-|:--|:--|:--|
-| System Design · Distributed Systems · LLM Infra | Full-stack apps · RAG pipelines · Vector DBs · PWAs | 2,000+ problems · CF Master · LC Guardian |
-
-</div>
-
-<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
-
-## <a name="education"></a>🎓 Education
-
-<div align="center">
+### 🎯 Snapshot
 
 | | |
 |:--|:--|
-| **Institution** | DIT University, Dehradun, India |
-| **Degree** | B.Tech, Computer Science Engineering (AI/ML) |
-| **GPA** | 8.41 / 10 |
+| 🎓 **B.Tech CSE (AI/ML)** | DIT University, Dehradun |
+| 📊 **GPA** | 8.41 / 10 |
+| 📍 **Based in** | Dehradun, India |
+| 🧠 **Focus** | System Design · Distributed Systems · LLM Infra |
+| 💼 **Status** | Open to SDE Internships 2025–26 |
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
+### ⚡ What drives me
 
-## <a name="stats-cp"></a>📊 Stats & Competitive Programming
+```yaml
+engineer:
+  builds: [full-stack apps, RAG pipelines, PWAs]
+  philosophy:
+    - design for the worst network
+    - measure before optimizing
+    - security from day one
+    - modular beats clever
 
-<div align="center">
+competitive_programmer:
+  problems_solved: 2000+
+  specialty: [graphs, dp, segment trees, flows]
+  instinct: "what's the actual bottleneck here?"
+```
 
-| Platform | Rating | Standing |
-|:--|:--:|:--|
-| <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" width="16" valign="middle"/> **Codeforces** | `2131` — Master | 56th in India · Top 0.8% globally |
-| <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" width="16" valign="middle"/> **LeetCode** | `2360+` — Guardian | #169 / 30,000+ in Contest 462 · Top 0.4% |
-| <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" width="16" valign="middle"/> **CodeChef** | `2132` — 5★ | 335th in India |
+</td>
+</tr>
+</table>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-2%2C000%2B-6C5CE7?style=flat-square&labelColor=0D1117)
-![Best Finish](https://img.shields.io/badge/Best_Contest_Finish-45_%2F_20%2C000%2B-2575FC?style=flat-square&labelColor=0D1117)
-![Platforms](https://img.shields.io/badge/Across-CF_·_LC_·_CSES_·_VJudge_·_HackerRank-6C5CE7?style=flat-square&labelColor=0D1117)
-
-**Topics I compete in**
-
-![Graphs](https://img.shields.io/badge/Graphs-6C5CE7?style=flat-square&logoColor=white)
-![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-2575FC?style=flat-square&logoColor=white)
-![Segment Trees](https://img.shields.io/badge/Segment_Trees-6C5CE7?style=flat-square&logoColor=white)
-![Flows](https://img.shields.io/badge/Flows-2575FC?style=flat-square&logoColor=white)
-![FFT](https://img.shields.io/badge/FFT-6C5CE7?style=flat-square&logoColor=white)
-![Binary Search](https://img.shields.io/badge/Binary_Search-2575FC?style=flat-square&logoColor=white)
-![Greedy](https://img.shields.io/badge/Greedy-6C5CE7?style=flat-square&logoColor=white)
-![Number Theory](https://img.shields.io/badge/Number_Theory-2575FC?style=flat-square&logoColor=white)
-![Trees](https://img.shields.io/badge/Trees-6C5CE7?style=flat-square&logoColor=white)
-![String Algorithms](https://img.shields.io/badge/String_Algorithms-2575FC?style=flat-square&logoColor=white)
-
-<br/>
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2005" alt="Codeforces Stats"/>
-
-</div>
-
-<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
-
-## <a name="github-analytics"></a>📈 GitHub Analytics
+## 🏅 Competitive Programming
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
-<img height="165" src="./profile/top-langs.svg" alt="Top Languages"/>
+<table>
+<tr>
+<th width="33%">⚔️ Codeforces</th>
+<th width="33%">🔥 LeetCode</th>
+<th width="33%">🌟 CodeChef</th>
+</tr>
+<tr>
+<td align="center">
+
+**`2131`**
+
+![Master](https://img.shields.io/badge/Rank-MASTER-FF4444?style=for-the-badge&labelColor=0D1117)
+
+56th in India 🇮🇳<br/>Top **0.8%** globally 🌍
+
+</td>
+<td align="center">
+
+**`2360+`**
+
+![Guardian](https://img.shields.io/badge/Rank-GUARDIAN-FFA116?style=for-the-badge&labelColor=0D1117)
+
+#169 / 30,000+ in Contest 462<br/>Top **0.4%** globally 🌍
+
+</td>
+<td align="center">
+
+**`2132`**
+
+![5 Star](https://img.shields.io/badge/Rank-5%E2%98%85_STAR-FFD700?style=for-the-badge&labelColor=0D1117)
+
+335th in India 🇮🇳
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+![Problems Solved](https://img.shields.io/badge/%E2%9C%85_Problems_Solved-2%2C000%2B-6C5CE7?style=for-the-badge&labelColor=0D1117)
+![Best Finish](https://img.shields.io/badge/%F0%9F%8F%86_Best_Finish-Rank_45_%2F_20%2C000%2B-2575FC?style=for-the-badge&labelColor=0D1117)
+![Platforms](https://img.shields.io/badge/%F0%9F%8C%90_Across-CF_%C2%B7_LC_%C2%B7_CSES_%C2%B7_VJudge_%C2%B7_HR-6C5CE7?style=for-the-badge&labelColor=0D1117)
+
+<br/>
+
+`Graphs` `Dynamic Programming` `Segment Trees` `Flows` `FFT` `Binary Search` `Greedy` `Number Theory` `Trees` `String Algorithms`
+
+<br/>
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2005" alt="Codeforces Stats" width="420"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6C5CE7&title_color=6C5CE7&text_color=C9D1D9" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=C9D1D9" alt="Top Languages"/>
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak"/></a>
+<img src="https://streak-stats.demolab.com?user=Aditgm&hide_border=true&background=0D1117&ring=6C5CE7&fire=E8590C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C5CE7&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="70%"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditgm&bg_color=0D1117&color=6C5CE7&line=2575FC&point=FFFFFF&area=true&area_color=6C5CE7&hide_border=true" alt="Activity Graph" width="95%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="95%"/>
 
 <br/><br/>
 
 <details>
 <summary><b>🧊 3D contribution calendar</b></summary>
 <br/>
-<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar"/>
+<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="95%"/>
 </details>
 
 </div>
 
-<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## <a name="tech-stack"></a>🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,bash&theme=dark"/>
 
-**Frontend**
-<br/>
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark"/>
 
-**Backend & APIs**
-<br/>
+### ⚙️ Backend & APIs
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark"/>
 
-**Databases**
-<br/>
+### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark"/>
 
-**Cloud, DevOps & Tooling**
-<br/>
+### ☁️ Cloud, DevOps & Tooling
 <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,linux,postman&theme=dark"/>
 
-**AI / ML**
-<br/>
+### 🤖 AI / ML
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
 
 </div>
-
-<br/>
 
 <details>
 <summary><b>🔧 Specialized tooling</b> — state management, auth, and AI/RAG-specific stack</summary>
@@ -209,35 +222,29 @@ I like systems that have to actually hold up under real constraints: offline-fir
 
 </details>
 
-<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## <a name="featured-projects"></a>📁 Featured Projects
+## 📁 Featured Projects
 
 <div align="center">
-
-| Project | Category | Primary Stack |
-|:--|:--|:--|
-| 📚 DIT PYQ Hub | Full-Stack PWA | React · Node.js · Supabase · PostgreSQL |
-| ⚖️ Legal Lens | AI / RAG · Legal-Tech | Next.js · LangChain · Pinecone · Llama 3.3 70B |
-| 🦟 Dengue Spot | Real-Time + CV | React · Socket.io · Roboflow · MongoDB |
-
+<img src="https://img.shields.io/badge/📚_DIT_PYQ_Hub-Full--Stack_PWA-6C5CE7?style=for-the-badge&labelColor=0D1117" alt="PYQ"/>
+<img src="https://img.shields.io/badge/⚖️_Legal_Lens-AI_%2F_RAG-2575FC?style=for-the-badge&labelColor=0D1117" alt="Legal Lens"/>
+<img src="https://img.shields.io/badge/🦟_Dengue_Spot-Real--Time_%2B_CV-6C5CE7?style=for-the-badge&labelColor=0D1117" alt="Dengue Spot"/>
 </div>
 
 <br/>
 
-### 📚 DIT PYQ Hub — Full-Stack Academic Resource Platform (PWA)
+### 📚 DIT PYQ Hub — Academic Resource Platform (PWA)
 
 Offline-first PWA for browsing, uploading, and downloading university question papers — built for unreliable campus networks. Previous-year papers usually end up scattered across WhatsApp groups and broken Drive links; this consolidates them into one fast, searchable place that still works when the hostel Wi-Fi doesn't.
 
 <div align="center">
-<img src="./assets/screenshots/dit-pyq-hub.png" width="100%" alt="DIT PYQ Hub screenshot"/>
-<br/><br/>
 
 ![Uptime](https://img.shields.io/badge/Uptime-99.9%25-6C5CE7?style=flat-square&labelColor=0D1117)
 ![Rate Limiting](https://img.shields.io/badge/Rate_Limit-5_req_%2F_3hr-2575FC?style=flat-square&labelColor=0D1117)
 ![Auth](https://img.shields.io/badge/Auth-Bearer_%2B_Row--Level_Security-6C5CE7?style=flat-square&labelColor=0D1117)
 
-`React 18` `TypeScript` `Node.js` `Express` `Supabase` `PostgreSQL` `DigitalOcean` `GitHub Actions` `Workbox` `TanStack Query` `Zod`
+`React 18` `TypeScript` `Node.js` `Express` `Supabase` `PostgreSQL` `DigitalOcean` `GitHub Actions` `Workbox`
 
 **🔗 [Live Demo](https://dit-pyq-hub.vercel.app/)**
 
@@ -262,7 +269,7 @@ ARCHITECTURE
 - Offline-first design using Workbox's multi-strategy caching (NetworkFirst, CacheFirst, StaleWhileRevalidate) so the app stays usable on flaky hostel/campus Wi-Fi
 - TanStack Query v5 optimistic updates paired with Supabase Realtime `postgres_changes` for fast UI sync
 - Hardened with rate limiting, Zod schema validation, watermarked file delivery, and row-level security policies
-- Zero-downtime deploys over SSH through GitHub Actions CI/CD, so updates ship without interrupting students mid-download
+- Zero-downtime deploys over SSH through GitHub Actions CI/CD
 
 </details>
 
@@ -270,11 +277,9 @@ ARCHITECTURE
 
 ### ⚖️ Legal Lens — AI-Powered Legal Help Platform for Women's Safety
 
-A community-driven, AI-powered platform focused on making women's workplace safety law accessible — POSH Act compliance, legal rights, and grounded guidance through a conversational interface, backed by a RAG pipeline over statutory text instead of generic model recall.
+A community-driven platform making women's workplace safety law accessible — POSH Act compliance, legal rights, and grounded guidance through a conversational interface, backed by a RAG pipeline over statutory text instead of generic model recall.
 
 <div align="center">
-<img src="./assets/screenshots/legal-lens.png" width="100%" alt="Legal Lens screenshot"/>
-<br/><br/>
 
 ![Query Latency](https://img.shields.io/badge/Query_Latency-Sub--150ms-6C5CE7?style=flat-square&labelColor=0D1117)
 ![Retrieval Accuracy](https://img.shields.io/badge/Retrieval_Accuracy-92%25_top--k-2575FC?style=flat-square&labelColor=0D1117)
@@ -302,9 +307,9 @@ ARCHITECTURE
 **Key engineering decisions**
 
 - Chunking strategy tuned for legal-document structure to keep retrieved context coherent rather than fragmenting clauses mid-sentence
-- LangChain orchestration layer keeps retrieval → generation modular, so the underlying model can be swapped without touching retrieval logic
+- LangChain orchestration keeps retrieval → generation modular, so the underlying model can be swapped without touching retrieval logic
 - Response caching on the API layer keeps repeat queries fast and cheap
-- Groq-hosted Llama 3.3 70B chosen specifically for low-latency inference, since a support tool for something this sensitive lives or dies on how fast and reliable it feels
+- Groq-hosted Llama 3.3 70B chosen for low-latency inference — a support tool like this lives or dies on speed and reliability
 
 </details>
 
@@ -312,11 +317,9 @@ ARCHITECTURE
 
 ### 🦟 Dengue Spot — Real-Time Disease Surveillance Platform
 
-A community-driven public health platform with live geo-tagged risk mapping. Outbreak risk is highly localized and changes fast — a platform that lets a community flag and see breeding sites in real time is far more useful than a static health advisory.
+A community-driven public health platform with live geo-tagged risk mapping. Outbreak risk is highly localized and changes fast — letting communities flag and see breeding sites in real time beats any static health advisory.
 
 <div align="center">
-<img src="./assets/screenshots/dengue-spot.png" width="100%" alt="Dengue Spot screenshot"/>
-<br/><br/>
 
 ![CV](https://img.shields.io/badge/CV-Auto--classifies_breeding_sites-6C5CE7?style=flat-square&labelColor=0D1117)
 ![Alerts](https://img.shields.io/badge/Alerts-Socket.io_broadcast-2575FC?style=flat-square&labelColor=0D1117)
@@ -343,29 +346,29 @@ ARCHITECTURE
 
 **Key engineering decisions**
 
-- Roboflow-powered computer vision pipeline auto-classifies user-submitted images of potential breeding sites, cutting down manual triage
-- Geospatial queries run against indexed MongoDB collections to keep the live risk map responsive as report volume grows
-- Defense-in-depth security: RBAC for permissions, rate limiting and IP banning against abuse, OAuth 2.0 + JWT for auth
-- Socket.io broadcasting keeps community alerts real-time instead of relying on page refreshes — important when the alert is "outbreak risk nearby"
+- Roboflow CV pipeline auto-classifies user-submitted breeding-site images, cutting manual triage
+- Geospatial queries run against indexed MongoDB collections to keep the live risk map responsive under load
+- Defense-in-depth security: RBAC, rate limiting, IP banning, OAuth 2.0 + JWT
+- Socket.io broadcasting keeps community alerts truly real-time
 
 </details>
 
-<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## <a name="achievements"></a>🏆 Achievements & Milestones
+## 🏆 Achievements & Milestones
 
 <table>
 <tr>
 <td width="56" align="center">🤖</td>
-<td><b>Amazon ML Summer School</b> — 2025<br/><sub>Selected · Top 5% of 60,000+ applicants</sub></td>
+<td><b>Amazon ML Summer School</b> — 2025<br/><sub>Selected · Top <b>5%</b> of 60,000+ applicants</sub></td>
 </tr>
 <tr>
 <td width="56" align="center">🥈</td>
-<td><b>Codeforces Round 1068 Div. 2</b> — 2025<br/><sub>Rank 45 / 20,000+ · Top 0.003% globally · <a href="https://codeforces.com/profile/aditya2005">Profile</a></sub></td>
+<td><b>Codeforces Round 1068 Div. 2</b> — 2025<br/><sub>Rank <b>45 / 20,000+</b> · Top 0.003% globally · <a href="https://codeforces.com/profile/aditya2005">Profile</a></sub></td>
 </tr>
 <tr>
 <td width="56" align="center">🥉</td>
-<td><b>LeetCode Weekly Contest 462</b> — 2025<br/><sub>Rank #169 / 30,000+ · <a href="https://leetcode.com/u/adityagm/">Profile</a></sub></td>
+<td><b>LeetCode Weekly Contest 462</b> — 2025<br/><sub>Rank <b>#169 / 30,000+</b> · <a href="https://leetcode.com/u/adityagm/">Profile</a></sub></td>
 </tr>
 <tr>
 <td width="56" align="center">🌿</td>
@@ -375,36 +378,41 @@ ARCHITECTURE
 
 <div align="center">
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Aditgm&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aditgm&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies"/>
 </div>
 
-<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## <a name="how-i-work"></a>🧭 How I Work
-
-- **Design for the worst network, not the average one.** Offline-first and graceful degradation aren't edge cases — they're the default assumption.
-- **Measure before optimizing.** The O(1) trigger and sub-150ms RAG latency both came from profiling first, not guessing.
-- **Security is a default, not a feature.** Rate limiting, RBAC, and input validation go in from day one, not bolted on before a demo.
-- **Modular beats clever.** Swappable pieces (models, caching strategies, auth providers) age a lot better than tightly-coupled "smart" solutions.
-- **Competitive programming keeps the fundamentals sharp.** Knowing the right data structure cold makes "is this fast enough" an instant answer instead of a guess.
-
-<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
-
-## <a name="open-source"></a>🍃 Open Source & Community
-
-I contributed to GirlScript Summer of Code as a Node.js / Python contributor, working alongside other contributors on real issues rather than toy tickets.
-
-Always glad to collaborate on full-stack, AI/RAG, or competitive-programming-adjacent open-source projects — issues, PRs, and "want to pair on this" messages are all welcome.
-
-<div align="center"><img src="./assets/badges/divider.svg" width="100%"/></div>
-
-## <a name="currently"></a>🔭 Currently
+## 🧭 How I Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Right now**
+- 🌐 **Design for the worst network, not the average one.** Offline-first and graceful degradation are the default assumption.
+- 📏 **Measure before optimizing.** The O(1) trigger and sub-150ms RAG latency both came from profiling first, not guessing.
+- 🔐 **Security is a default, not a feature.** Rate limiting, RBAC, and input validation go in from day one.
+
+</td>
+<td width="50%" valign="top">
+
+- 🧩 **Modular beats clever.** Swappable pieces age far better than tightly-coupled "smart" solutions.
+- 🧮 **Competitive programming keeps fundamentals sharp.** Knowing the right data structure cold makes "is this fast enough?" an instant answer.
+- 🚢 **Ship it, then harden it.** A deployed v1 teaches you more than a perfect v0.
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🔭 Currently
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Right now
 
 - 🔨 Building production-grade full-stack and AI/RAG systems
 - 📖 Going deeper on distributed systems patterns and LLM infra
@@ -414,10 +422,10 @@ Always glad to collaborate on full-stack, AI/RAG, or competitive-programming-adj
 </td>
 <td width="50%" valign="top">
 
-**2026 goals**
+### 🎯 2026 goals
 
 - Push deeper into distributed systems & LLM infra design
-- Take Legal Lens and Dengue Spot from project-grade to production-ready
+- Take Legal Lens and Dengue Spot to production-grade
 - Keep climbing on Codeforces, LeetCode, and CodeChef
 - Land an SDE internship working on systems at real scale
 
@@ -425,16 +433,18 @@ Always glad to collaborate on full-stack, AI/RAG, or competitive-programming-adj
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,22&height=150&section=footer&text=Let's%20Build%20Something%20Together&fontSize=28&fontColor=FFFFFF&fontAlignY=68&animation=fadeIn" width="100%" alt="footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,22&height=150&section=footer&text=Let's%20Connect&fontSize=32&fontColor=FFFFFF&fontAlignY=68&animation=fadeIn" width="100%"/>
-
-## <a name="lets-connect"></a>✉️ Let's Connect
+## ✉️ Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/aditya-raj-18401a377"><img src="https://img.shields.io/badge/LinkedIn-Connect-2575FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-<a href="mailto:arajsinha4@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://portfolio-chi-taupe-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-2575FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/aditya-raj-18401a377"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:arajsinha4@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/></a>
+<a href="https://portfolio-chi-taupe-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_site-2575FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 
 </div>
