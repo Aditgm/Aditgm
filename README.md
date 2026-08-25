@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:6C5CE7,100:2575FC&height=280&section=header&text=Aditya%20Raj&fontSize=70&fontColor=FFFFFF&fontAlignY=34&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%" alt="header"/>
 
-<a href="https://github.com/Aditgm"><img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditgm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=2575FC&text_color=C9D1D9" alt="GitHub Stats"/></a>
-<a href="https://github.com/Aditgm"><img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditgm&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=C9D1D9" alt="Top Languages"/></a>
+<a href="https://github.com/Aditgm"><img height="150" src="https://github-readme-stats-one-bice.vercel.app/api?username=Aditgm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=2575FC&text_color=C9D1D9" alt="GitHub Stats"/></a>
+<a href="https://github.com/Aditgm"><img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Aditgm&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=C9D1D9" alt="Top Languages"/></a>
 
 <br/><br/>
 
@@ -342,8 +342,7 @@ A community-driven platform making women's workplace safety law accessible — P
 **🔗 [Repository](https://github.com/Aditgm/Legal_Lens)**
 
 </div>
-
-<a href="https://github.com/Aditgm/Legal_Lens"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aditgm&repo=Legal_Lens&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=C9D1D9&icon_color=2575FC" alt="Legal Lens repo card" width="48%"/></a>
+<a href="https://github.com/Aditgm/Legal_Lens"><img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Aditgm&repo=Legal_Lens&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=C9D1D9&icon_color=2575FC" alt="Legal Lens repo card" width="48%"/></a>
 
 <details>
 <summary><b>📐 Engineering deep dive</b></summary>
