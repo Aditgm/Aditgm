@@ -154,9 +154,6 @@ competitive_programmer:
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/6C5CE7/Aditgm" alt="Contribution Calendar" width="95%"/>
-
-
 <img src="https://raw.githubusercontent.com/Aditgm/Aditgm/snake-output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake"/>
 <img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib/profile-green-animate.svg" width="95%" alt="3d calendar"/>
 
