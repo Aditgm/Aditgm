@@ -156,55 +156,9 @@ competitive_programmer:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditgm&bg_color=0D1117&color=6C5CE7&line=2575FC&point=FFFFFF&area=true&area_color=6C5CE7&hide_border=true" alt="Activity Graph" width="95%"/>
 
-<details>
-<summary><b>🐍 Contribution snake & 🧊 3D calendar</b> <i>(click for setup)</i></summary>
 
-<br/>
-
-These render automatically once their GitHub Actions run in your `Aditgm/Aditgm` profile repo:
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Aditgm
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark&bg_color=0D1117
-      - uses: crazy-max/ghaction-github-pages@v4
-        with: {target_branch: output, build_dir: dist}
-        env: {GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}}
-```
-
-```yaml
-# .github/workflows/profile-3d.yml
-name: 3D Contrib
-on:
-  schedule: [{cron: "0 1 * * *"}]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: profile-3d-contrib.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-```
-
-After running both, uncomment these lines and push:
-
-<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake"/>
-<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib.svg" width="95%" alt="3d calendar"/> 
+<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/snake-output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake"/>
+<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib/profile-night-green.svg" width="95%" alt="3d calendar"/>
 
 
 </details>
