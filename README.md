@@ -154,7 +154,7 @@ competitive_programmer:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditgm&bg_color=0D1117&color=6C5CE7&line=2575FC&point=FFFFFF&area=true&area_color=6C5CE7&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://ghchart.rshah.org/6C5CE7/Aditgm" alt="Contribution Calendar" width="95%"/>
 
 
 <img src="https://raw.githubusercontent.com/Aditgm/Aditgm/snake-output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake"/>
