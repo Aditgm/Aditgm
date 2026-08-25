@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:6C5CE7,100:2575FC&height=280&section=header&text=Aditya%20Raj&fontSize=70&fontColor=FFFFFF&fontAlignY=34&stroke=FFFFFF&strokeWidth=1&animation=twinkling" width="100%" alt="header"/>
 
-<a href="https://codeforces.com/profile/aditya2005"><img height="150" src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C5CE7&icon_color=2575FC&text_color=C9D1D9" alt="GitHub Stats"/></a>
-<a href="https://leetcode.com/u/adityagm/"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&hide_border=true&bg_color=00000000&title_color=6C5CE7&text_color=C9D1D9" alt="Top Languages"/></a>
+<a href="https://github.com/Aditgm"><img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditgm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=2575FC&text_color=C9D1D9" alt="GitHub Stats"/></a>
+<a href="https://github.com/Aditgm"><img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditgm&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=C9D1D9" alt="Top Languages"/></a>
 
 <br/><br/>
 
@@ -11,12 +11,17 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/aditya-raj-18401a377"><img src="https://img.shields.io/badge/LinkedIn-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="mailto:arajsinha4@gmail.com"><img src="https://img.shields.io/badge/Gmail-%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/></a>
-<a href="https://portfolio-chi-taupe-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%20-2575FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
-<a href="https://github.com/Aditgm"><img src="https://img.shields.io/badge/GitHub-%20-6C5CE7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
-<a href="https://codeforces.com/profile/aditya2005"><img src="https://img.shields.io/badge/Codeforces-%20-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Codeforces"/></a>
-<a href="https://www.codechef.com/users/adityagm"><img src="https://img.shields.io/badge/CodeChef-%20-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" alt="CodeChef"/></a>
+<a href="https://linkedin.com/in/aditya-raj-18401a377"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:arajsinha4@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/></a>
+<a href="https://portfolio-chi-taupe-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2575FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://github.com/Aditgm"><img src="https://img.shields.io/badge/GitHub-Follow-6C5CE7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+
+<br/>
+
+<a href="https://codeforces.com/profile/aditya2005"><img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F_Codeforces-Master_%C2%B7_2131-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Codeforces"/></a>
+<a href="https://leetcode.com/u/adityagm/"><img src="https://img.shields.io/badge/%F0%9F%94%A5_LeetCode-Guardian_%C2%B7_2360%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode"/></a>
+<a href="https://www.codechef.com/users/adityagm"><img src="https://img.shields.io/badge/%F0%9F%8C%9F_CodeChef-5%E2%98%85_%C2%B7_2132-BA8F4C?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" alt="CodeChef"/></a>
+<a href="https://leetcode.com/u/adityagm/contest/"><img src="https://img.shields.io/badge/%F0%9F%8F%86_Contests-Regular_Competitor-2EA043?style=for-the-badge&labelColor=0D1117" alt="Contests"/></a>
 
 <br/><br/>
 
@@ -78,9 +83,9 @@ competitive_programmer:
 
 <table>
 <tr>
-<th width="33%">⚔️ Codeforces</th>
-<th width="33%">🔥 LeetCode</th>
-<th width="33%">🌟 CodeChef</th>
+<th width="33%">⚔️ <a href="https://codeforces.com/profile/aditya2005">Codeforces</a></th>
+<th width="33%">🔥 <a href="https://leetcode.com/u/adityagm/">LeetCode</a></th>
+<th width="33%">🌟 <a href="https://www.codechef.com/users/adityagm">CodeChef</a></th>
 </tr>
 <tr>
 <td align="center">
@@ -125,7 +130,7 @@ competitive_programmer:
 
 <br/>
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2005" alt="Codeforces Stats" width="420"/>
+<a href="https://codeforces.com/profile/aditya2005"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=aditya2005" alt="Codeforces Stats"/></a>
 
 </div>
 
@@ -135,8 +140,13 @@ competitive_programmer:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditgm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6C5CE7&title_color=6C5CE7&text_color=C9D1D9" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditgm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=C9D1D9" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditgm&theme=tokyonight" alt="Profile Details" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditgm&theme=tokyonight" alt="Repos per Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditgm&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditgm&theme=tokyonight" alt="Stats" width="32%"/>
 
 <br/><br/>
 
@@ -146,16 +156,58 @@ competitive_programmer:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditgm&bg_color=0D1117&color=6C5CE7&line=2575FC&point=FFFFFF&area=true&area_color=6C5CE7&hide_border=true" alt="Activity Graph" width="95%"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="95%"/>
-
-<br/><br/>
-
 <details>
-<summary><b>🧊 3D contribution calendar</b></summary>
+<summary><b>🐍 Contribution snake & 🧊 3D calendar</b> <i>(click for setup)</i></summary>
+
 <br/>
-<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="95%"/>
+
+These render automatically once their GitHub Actions run in your `Aditgm/Aditgm` profile repo:
+
+```yaml
+# .github/workflows/snake.yml
+name: Generate Snake
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Aditgm
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark&bg_color=0D1117
+      - uses: crazy-max/ghaction-github-pages@v4
+        with: {target_branch: output, build_dir: dist}
+        env: {GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}}
+```
+
+```yaml
+# .github/workflows/profile-3d.yml
+name: 3D Contrib
+on:
+  schedule: [{cron: "0 1 * * *"}]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: profile-3d-contrib.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+```
+
+After running both, uncomment these lines and push:
+
+```html
+<!-- <img src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake"/> -->
+<!-- <img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib.svg" width="95%" alt="3d calendar"/> -->
+```
+
 </details>
 
 </div>
@@ -227,9 +279,9 @@ competitive_programmer:
 ## 📁 Featured Projects
 
 <div align="center">
-<img src="https://img.shields.io/badge/📚_DIT_PYQ_Hub-Full--Stack_PWA-6C5CE7?style=for-the-badge&labelColor=0D1117" alt="PYQ"/>
-<img src="https://img.shields.io/badge/⚖️_Legal_Lens-AI_%2F_RAG-2575FC?style=for-the-badge&labelColor=0D1117" alt="Legal Lens"/>
-<img src="https://img.shields.io/badge/🦟_Dengue_Spot-Real--Time_%2B_CV-6C5CE7?style=for-the-badge&labelColor=0D1117" alt="Dengue Spot"/>
+<a href="#-dit-pyq-hub--academic-resource-platform-pwa"><img src="https://img.shields.io/badge/DIT_PYQ_Hub-Full--Stack_PWA-6C5CE7?style=for-the-badge&labelColor=0D1117" alt="PYQ Hub"/></a>
+<a href="#%EF%B8%8F-legal-lens--ai-powered-legal-help-platform-for-womens-safety"><img src="https://img.shields.io/badge/Legal_Lens-AI_%2F_RAG-2575FC?style=for-the-badge&labelColor=0D1117" alt="Legal Lens"/></a>
+<a href="#-dengue-spot--real-time-disease-surveillance-platform"><img src="https://img.shields.io/badge/Dengue_Spot-Real--Time_%2B_CV-6C5CE7?style=for-the-badge&labelColor=0D1117" alt="Dengue Spot"/></a>
 </div>
 
 <br/>
@@ -266,9 +318,9 @@ ARCHITECTURE
 **Key engineering decisions**
 
 - O(1) download counters via PL/pgSQL triggers — eliminated expensive `COUNT(*)` queries on every page load
-- Offline-first design using Workbox's multi-strategy caching (NetworkFirst, CacheFirst, StaleWhileRevalidate) so the app stays usable on flaky hostel/campus Wi-Fi
+- Offline-first design using Workbox's multi-strategy caching so the app stays usable on flaky hostel/campus Wi-Fi
 - TanStack Query v5 optimistic updates paired with Supabase Realtime `postgres_changes` for fast UI sync
-- Hardened with rate limiting, Zod schema validation, watermarked file delivery, and row-level security policies
+- Hardened with rate limiting, Zod schema validation, watermarked delivery, and row-level security policies
 - Zero-downtime deploys over SSH through GitHub Actions CI/CD
 
 </details>
@@ -290,6 +342,8 @@ A community-driven platform making women's workplace safety law accessible — P
 **🔗 [Repository](https://github.com/Aditgm/Legal_Lens)**
 
 </div>
+
+<a href="https://github.com/Aditgm/Legal_Lens"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aditgm&repo=Legal_Lens&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=C9D1D9&icon_color=2575FC" alt="Legal Lens repo card" width="48%"/></a>
 
 <details>
 <summary><b>📐 Engineering deep dive</b></summary>
@@ -376,11 +430,6 @@ ARCHITECTURE
 </tr>
 </table>
 
-<div align="center">
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Aditgm&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies"/>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 🧭 How I Work
@@ -416,7 +465,7 @@ ARCHITECTURE
 
 - 🔨 Building production-grade full-stack and AI/RAG systems
 - 📖 Going deeper on distributed systems patterns and LLM infra
-- 🥇 Competing regularly on Codeforces, LeetCode, CodeChef
+- 🥇 Competing regularly on [Codeforces](https://codeforces.com/profile/aditya2005), [LeetCode](https://leetcode.com/u/adityagm/), [CodeChef](https://www.codechef.com/users/adityagm)
 - 💼 Open to SDE Internships, 2025–26
 
 </td>
@@ -442,6 +491,9 @@ ARCHITECTURE
 <a href="https://linkedin.com/in/aditya-raj-18401a377"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
 <a href="mailto:arajsinha4@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/></a>
 <a href="https://portfolio-chi-taupe-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_site-2575FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://github.com/Aditgm"><img src="https://img.shields.io/badge/GitHub-%40Aditgm-6C5CE7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://codeforces.com/profile/aditya2005"><img src="https://img.shields.io/badge/Codeforces-aditya2005-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Codeforces"/></a>
+<a href="https://www.codechef.com/users/adityagm"><img src="https://img.shields.io/badge/CodeChef-adityagm-BA8F4C?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" alt="CodeChef"/></a>
 
 <br/><br/>
 
