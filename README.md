@@ -203,10 +203,9 @@ jobs:
 
 After running both, uncomment these lines and push:
 
-```html
-<!-- <img src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake"/> -->
-<!-- <img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib.svg" width="95%" alt="3d calendar"/> -->
-```
+<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake"/>
+<img src="https://raw.githubusercontent.com/Aditgm/Aditgm/main/profile-3d-contrib.svg" width="95%" alt="3d calendar"/> 
+
 
 </details>
 
